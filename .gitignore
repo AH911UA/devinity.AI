@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+public
+.ffmpeg-cache
+yarn-error.log
+yarn.lock
+.vscode/
+.idea/
+package-lock.json

@@ -1,0 +1,2476 @@
+{
+  "home": {
+    "howWeWork": [
+      {
+        "id": 2,
+        "title": "Remote Developers",
+        "description": "Are you looking for top-tier talent to join your team? Look no further! We will provide you with the best  professionals in the industry. Have specific candidate requirements or need some advice? No problem, we handle it all for you.",
+        "image": "howWeWork/HowWeWork_2.png"
+      },
+      {
+        "id": 3,
+        "title": "Managed Projects",
+        "description": "Sit back, relax and let us handle your project from A to Z. Our professional team of developers, designers and an experienced, committed project manager will make sure that the project is completed promptly and smoothly. ",
+        "image": "howWeWork/HowWeWork_3.png"
+      },
+      {
+        "id": 1,
+        "title": "Dedicated Teams",
+        "description": "After gathering all the necessary project information, we assemble a dedicated team of developers specifically tailored to your project's requirements. From that point forward, you have the flexibility to manage the team as you see fit. ",
+        "image": "howWeWork/HowWeWork_1.png"
+      }
+    ],
+    "brands": [
+      "brands/brand_festo.png",
+      "brands/brand_festo_web.png",
+      "brands/brand_cargo.png"
+    ],
+    "technologies": [
+      {
+        "id": 1,
+        "title": "Web",
+        "description": "We create beautiful, functional, modern and fully customized websites that set you apart from competition and strengthen your digital presence. Online shop, blog, admin panel or even custom CRM, we will deliver top-notch quality at a mouth-watering price point.",
+        "image": "technologies/technologies_2.png",
+        "link": "/article/2",
+        "url": "/web"
+      },
+      {
+        "id": 2,
+        "title": "Mobile",
+        "description": "We develop scalable, cross-platform and market-ready mobile applications that easily exceed all market expectations. Whether you’d like AI integrated, a complex financial system developed or something entirely novel crafted - we’ve got it covered.",
+        "image": "technologies/technologies_4.png",
+        "link": "/article/4",
+        "url": "/mobile"
+      },
+      {
+        "id": 5,
+        "title": "AI",
+        "description": "We leverage AI to streamline your business operations. We integrate AI into apps, websites, tools, and businesses to automate processes and boost efficiency. Our expertise in AI integration ensures top-tier performance and innovation.",
+        "image": "technologies/technologies_5.png",
+        "link": "/article/5",
+        "url": "/ai"
+      },
+      {
+        "id": 3,
+        "title": "Server",
+        "description": "We deliver powerful server solutions with seamless cloud integration and advanced microservices architecture. Ensure your backend is scalable and robust for high-availability systems, setting you apart with unmatched reliability and performance.",
+        "image": "technologies/technologies_3.png",
+        "link": "/article/3",
+        "url": "/server"
+      },
+      {
+        "id": 4,
+        "title": "Blockchain",
+        "description": "We harness blockchain for your new product. Creating smart contracts, custom marketplaces, cryptocurrencies, and NFTs, is our specialty. Our in-house blockchain expertise ensures profitable and innovative solutions.",
+        "image": "technologies/technologies_1.png",
+        "link": "/article/1",
+        "url": "/blockchain"
+      },
+      {
+        "id": 6,
+        "title": "Desktop",
+        "description": "Whether a new SaaS product or an addition to your existing business, we develop powerful desktop applications tailored to your needs. Our software ensures high performance, seamless integration, and intuitive design, bringing your vision to the desktop.",
+        "image": "technologies/technologies_6.png",
+        "link": "/article/6",
+        "url": "/desktop"
+      }
+    ],
+    "technologiesOther": [
+      {
+        "id": 7,
+        "title": "Game",
+        "description": "Our game development services utilize both Unity and Unreal Engine, focusing on creating engaging low-budget mobile games that deliver high-quality entertainment and gameplay.",
+        "image": "technologies/technologies_7.png",
+        "link": "/article/7"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Diana",
+        "description": "We had an idea that required AI and Devinity was fully on board. They accommodated all the adjustments I requested without any hesitation. In the end, the work met all my requirements and exceeded the expectations. The integration of Google Cloud Vision and GPT-4 into our customer support was implemented very effectively. I really appreciate that you are only meant to pay after you receive the results, the communication was spot on."
+      },
+      {
+        "id": 2,
+        "title": "Ilyas",
+        "description": "Choosing Devinity was a no-brainer once I saw their quote. What I didn’t expect was the there enthusiastic attitude every time I asked for a revision. They delivered a solid website. React, Node.js—whatever it was, they had it covered."
+      },
+      {
+        "id": 3,
+        "title": "Dmytro",
+        "description": "I am incredibly satisfied with the end product and the price that I have paid for the development. In my opinion, it couldn’t have been done better. The animations are stunning and I was really surprised with how fast the website was made and how fast it loads up and the smooth experience. To be honest the website tops many websites of big corporations in terms of quality, perhaps they should learn about Devinity.AI LLC."
+      },
+      {
+        "id": 4,
+        "title": "Liubomyr",
+        "description": "I am Liubomyr, a boxing, kickboxing, and fitness coach. I am thrilled with the outstanding work done by the Devinity team, led by Denys Bondarenko, in creating a website for my coaching business. Their professionalism and technical expertise have significantly enhanced my online presence, contributing to the success of my training services. I highly recommend Devinity for anyone seeking top-notch web development tailored to their business needs."
+      }
+    ],
+    "process": [
+      {
+        "id": 1,
+        "title": "Discovery",
+        "description": "At Devinity.AI , we begin by accurately assessing your project's scope and cost. Our Business Analysts delve into your needs to craft a strategy that's a perfect fit. Your vision is our command – we explore every angle to ensure your concept stands strong in the market.",
+        "image": "ourProcess/ourProcess_1.png"
+      },
+      {
+        "id": 2,
+        "title": "Preparation",
+        "description": "At this stage the legal experts take craft all the necessary agreements and binding documents and we lay the groundwork by approving the underlying mechanics, designing a blueprint and ensuring every detail is planned to perfection.",
+        "image": "ourProcess/ourProcess_2.png"
+      },
+      {
+        "id": 3,
+        "title": "Development",
+        "description": "Customization is our specialty at Devinity.AI - we adapt our software development and project management expertise to meet your unique requirements. Want a fast MVP or a deliberate end-product or something in between? We are ready to meet all your needs! Once developed, tested, and vetted by our leading Tech Heads, alongside with any revisions you deem necessary, we celebrate your project's successful debut.",
+        "image": "ourProcess/ourProcess_3.png"
+      },
+      {
+        "id": 4,
+        "title": "Support",
+        "description": "Devinity.AI stands by you well beyond the project's completion. We're your long-term partner, offering six months of complimentary support and maintenance to ensure your project continues to run seamlessly and successfully.",
+        "image": "ourProcess/ourProcess_4.png"
+      }
+    ]
+  },
+  "portfolio": [
+    {
+      "id": 1,
+      "type": "mobile",
+      "title": "Festo App",
+      "title_seo": "Festo: Innovative Social-Event Platform by Devinity LLC",
+      "description_short": "Innovative social-event platform merging diverse technologies. Devinity LLC SaaS project, secured $70,000 private funding, entering public seed round.",
+      "description": "<div><p>Festo is an innovative platform app that merges the best of social media and events hosting. Festo employs a varied stack of technologies, including but not limited to REST APIs, regulaforensics, OpenAI Products, Stripe (Software), Twilio, React.js, Node.js, SQL and React Native.</p><p>Festo is Devinity’s own SaaS project that has secured more than $70,000 in private funding and is moving into its public seed funding round. The project is a testament to Devinity’s quality of work and dedication to not only work for the industry but to also actively participate in it.</p></div>",
+      "link": "https://festoapp.com/",
+      "status": "The project was completed",
+      "country": {
+        "name": "Great Britain",
+        "code": "GB"
+      },
+      "time": "1 year",
+      "members": "3 team members",
+      "picture": "portfolio/festo_app.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/festo-app.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "web",
+      "title": "Festo Web",
+      "title_seo": "Festo this is Innovative Event Platform by Devinity LLC",
+      "description_short": "Festo by Devinity: Innovative event platform merging social media and hosting. Streamlined invites, payments, and admin tasks with diverse tech stack.",
+      "description": "<div><p>Festo is an innovative platform app that merges the best of social media and events hosting. Festo’s website allows users to send invites to events and accept payment online. Additionally, the admin panel allows the management to monitor the app activity, resolve issues and address customer’s support queries to full extent. Festo employs a varied stack of technologies, including but not limited to REST APIs, regulaforensics, OpenAI Products, Stripe (Software), Twilio, React.js, Node.js, SQL and React Native.</p><p>Festo is Devinity’s own SaaS project that has secured more than $70,000 in private funding and is moving into its public seed funding round. The project is a testament to Devinity’s quality of work and dedication to not only work for the industry but to also actively participate in it.</p></div>",
+      "link": "https://festoapp.com/",
+      "status": "The project was completed",
+      "country": {
+        "name": "Great Britain",
+        "code": "GB"
+      },
+      "time": "1 month",
+      "members": "2 team members",
+      "picture": "portfolio/festo-app.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/festo-web.jpg",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "web",
+      "title": "Air Alliance US",
+      "title_seo": "Air Alliance US Cargo-centric, React-powered by Devinity LLC",
+      "description_short": "Air Alliance US: Tailored for a cargo company, experience stunning design seamlessly powered by React, optimized for heavy traffic, ensuring a user journey.",
+      "description": "The website for Air Alliance US is filled with state of art custom animations and boasts a stellar design. By utilizing react technologies we ensured the smoothness of experience on all devices and made the website ready for heavy traffic influx.",
+      "link": "https://airalliance.us/",
+      "status": "The project was completed",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "14 days",
+      "members": "1 team member",
+      "picture": "portfolio/airalliance-web.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/airalliance-web.jpg",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "web",
+      "title": "Liubomyrboxingfit.com",
+      "title_seo": "Liubomyr's sleek boxing site: Explore training packages.",
+      "description_short": "Liubomyr boxing website for boxing enthusiasts. Developed with Devinity LLC for a sleek user experience. Discover boxing training packages from Liubomyr's.",
+      "description": "Liubomyrboxingfit.com presents a dynamic and engaging platform dedicated to boxing and fitness enthusiasts. Developed with React technology, the site offers a sleek and responsive user experience, showcasing Liubomyr, a passionate boxing coach with a mission to unlock the champion in every individual. The site details a range of training packages, highlights rave reviews from satisfied clients, and underscores Liubomyr’s credentials as a 4-time Kickboxing Champion of Ukraine. With clear calls-to-action, such as ‘Book Session Now,’ and comprehensive information about the coaching services offered both in-person and online, this digital presence is designed to inspire visitors to start their fitness journey with a trusted and accomplished personal trainer. The website not only emphasizes the transformative power of boxing and fitness training but also facilitates easy navigation for users to purchase training packages and learn more about Liubomyr’s unique approach to personal fitness.",
+      "link": "https://liubomyrboxingfit.com/",
+      "status": "The project was completed",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "14 days",
+      "members": "1 team member",
+      "picture": "portfolio/boxing-web.jpg",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/boxing-web.jpg",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "mobile",
+      "title": "MapsSDK project",
+      "title_seo": "Maps SDK: integration digital maps in app with Divinity LLC",
+      "description_short": "MapsSDK: Transforming digital interactions by integrating location-based technology into daily experiences. Discover, connect, and grow with us in mobile app.",
+      "description": "<div><h2>MapsSDK: Revolutionizing Digital Interactions</h2>\n\n  <p>In a world powered by MapsSDK, every digital interaction becomes an immersive and transformative experience. From discovering hidden local gems to optimizing business operations, MapsSDK seamlessly integrates geography into the fabric of our daily lives.</p>\n\n  <h2>Transforming Discoveries</h2>\n\n  <p>MapsSDK empowers apps to guide users on journeys of discovery, uncovering hidden local attractions, events, and businesses. With interactive maps and real-time data, users can explore their surroundings with ease and excitement.</p>\n\n  <h2>Enriching Social Connections</h2>\n\n  <p>MapsSDK enhances social interactions by fostering connections through shared locations. Geo-social platforms and location-based games bring people together, allowing them to explore the world and forge meaningful relationships.</p>\n\n  <h2>Elevating Websites</h2>\n\n  <p>MapsSDK breathes new life into websites, transforming them into interactive portals for exploring local experiences. Real estate platforms seamlessly integrate maps to showcase properties and neighborhoods, while travel booking sites provide comprehensive maps of hotels, tourist attractions, and destinations. E-commerce websites enhance the shopping experience with location-based features, allowing users to find nearby stores and discover local products.</p>\n\n  <h2>Streamlining Business Operations</h2>\n\n  <p>MapsSDK empowers businesses to optimize their operations and gain a competitive edge. Real-time location data enables streamlined logistics, with efficient delivery routes and real-time tracking of shipments. Asset tracking solutions ensure the secure and efficient management of fleets and equipment. MapsSDK also plays a crucial role in market analysis, providing businesses with valuable insights into customer behavior and market trends.</p>\n\n  <h2>Advancing Geospatial Innovation</h2>\n\n  <p>At the heart of these innovations is MapsSDK, a powerful suite of location-based technologies that is revolutionizing how we interact with the world around us. MapsSDK is not just about mapping locations; it's about weaving geography into the fabric of our digital experiences.</p>\n\n  <p>With MapsSDK, the future of digital interactions is limitless. We are on the cusp of a new era, where location-based technology will become an integral part of our daily lives, enriching our experiences and transforming our understanding of the world around us.</p>\n\n  <p>Embrace the power of MapsSDK and join us on this journey of innovation. Together, we can create a world where digital interactions are seamlessly integrated with the physical world, opening up new possibilities for discovery, connection, and growth.</p></div>",
+      "status": "The project is sample",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "3 month",
+      "members": "3 team members",
+      "picture": "portfolio/sample-1.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/sample-1.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "blockchain",
+      "title": "Crypto Wallet App Project",
+      "title_seo": "Crypto Wallet Apps: Digital Finance in app with Devinity LLC",
+      "description_short": "Crypto Wallet Apps: Revolutionizing Digital Finance Solutions for mobile app. Explore the transformative power for an equitable and accessible financial future.",
+      "description": "<div><h2>Crypto Wallet Apps: Revolutionizing Digital Currency Management</h2>\n\n  <p>In the ever-evolving world of digital currencies, crypto wallet apps have emerged as indispensable tools for managing and safeguarding our virtual assets. These innovative applications harness the power of blockchain technology, encryption, and user-centered design to provide a secure and user-friendly gateway to the cryptocurrency ecosystem.</p>\n\n  <h2>Core Applications of Crypto Wallet Apps</h2>\n\n  <p>Crypto wallet apps offer a comprehensive suite of functionalities that empower users to navigate the world of cryptocurrency with confidence.</p>\n\n  <ul>\n    <li>Security: Advanced encryption algorithms and multi-factor authentication mechanisms safeguard users' digital assets from unauthorized access.</li>\n    <li>Transaction Management: Streamlined processes for sending, receiving, and exchanging cryptocurrencies across various blockchain networks simplify asset management.</li>\n    <li>Diverse Blockchain Integration: Access to a vast array of decentralized applications (DApps) within the wallet expands the possibilities of cryptocurrency usage.</li>\n  </ul>\n\n  <h2>Powerful Technologies Driving Crypto Wallet Apps</h2>\n\n  <p>The success of crypto wallet apps lies in their seamless integration of cutting-edge technologies that underpin the cryptocurrency ecosystem.</p>\n\n  <ul>\n    <li>Blockchain: The backbone of cryptocurrency, blockchain technology ensures secure and transparent transaction records, fostering trust and confidence in the digital asset space.</li>\n    <li>Smart Contracts: These self-executing contracts automate processes, enhance wallet functionalities, and introduce new avenues for innovation within the crypto ecosystem.</li>\n    <li>DApps Integration: The ability to access DApps within the wallet expands the scope of cryptocurrency usage, enabling users to interact with decentralized services without leaving the app.</li>\n  </ul>\n\n  <h2>Enhancing User Experience with Simplicity and Insight</h2>\n\n  <p>Crypto wallet apps prioritize user experience, with a focus on intuitive design and accessibility.</p>\n\n  <ul>\n    <li>User-Friendly Interface: Simplified designs and intuitive navigation make crypto wallet apps accessible to both experienced traders and newcomers to the cryptocurrency space.</li>\n    <li>Real-Time Data: Users stay informed with up-to-date information on market trends, wallet balances, and cryptocurrency news.</li>\n    <li>Educational Content: In-app learning resources provide a comprehensive understanding of cryptocurrency concepts and terminology, empowering users to make informed decisions.</li>\n  </ul>\n\n  <h2>Empowering Digital Financial Inclusion</h2>\n\n  <p>Crypto wallet apps are playing a pivotal role in democratizing access to financial services, particularly in regions underserved by traditional institutions.</p>\n\n  <p>By providing secure and user-friendly tools for managing digital assets, these apps are enabling individuals to take control of their finances, save, invest, and participate in the global economy without geographical or institutional barriers.</p>\n\n  <p>As the cryptocurrency landscape continues to evolve, crypto wallet apps will undoubtedly play an increasingly crucial role in shaping the future of digital finance. With their emphasis on security, convenience, and accessibility, these apps are empowering individuals worldwide to engage with cryptocurrency and harness its potential to transform the way we interact with money.</p>\n\n  <p>Embrace the transformative power of crypto wallet apps and join the movement towards a more equitable and accessible digital financial future.</p></div>",
+      "status": "The project is sample",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "3 month",
+      "members": "3 team members",
+      "picture": "portfolio/sample-2.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/sample-2.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "mobile",
+      "title": "React Native Banking and Budgeting Mobile App Project",
+      "title_seo": "Crypto Wallets: Empowering Finance React Native by Devinity",
+      "description_short": "Crypto Wallet Apps: Empowering Financial Innovation with React Native. Join us in shaping a future where financial tools are secure, accessible, and empowering.",
+      "description": "<div><h2>React Native: Empowering Financial Innovation</h2>\n\n  <p>In the dynamic world of financial technology, React Native has emerged as a transformative force, revolutionizing the development of banking and budgeting applications. This innovative technology empowers developers to create seamless, user-friendly financial tools that deliver a superior banking experience for users worldwide.</p>\n\n  <h2>Core Technologies Driving React Native's Impact</h2>\n\n  <p>React Native's core capabilities enable rapid development and deployment of cross-platform applications, breaking down the barriers of device limitations and providing a consistent user experience across iOS and Android devices. Its arsenal of tools, including live reloading and hot reloading, facilitates faster development cycles and real-time feedback, empowering developers to iterate and refine their creations with exceptional efficiency.</p>\n\n  <h2>Leveraging Native Modules and Components for Enhanced Functionality</h2>\n\n  <p>React Native's seamless integration with native modules and components unlocks a world of possibilities for financial apps. Developers can seamlessly integrate device-specific functionalities like the camera, GPS, and biometrics, enhancing security, providing innovative features, and ensuring a truly personalized user experience.</p>\n\n  <h2>Additional Technologies for Robust Financial Solutions</h2>\n\n  <p>React Native's versatility extends beyond basic development tools. Leveraging Redux for state management ensures the seamless organization and management of app states, particularly crucial for handling complex financial data. GraphQL's efficient data fetching capabilities enable real-time financial updates, providing users with always-current information. And secure storage solutions safeguard sensitive financial information with encrypted storage options, ensuring data privacy and compliance with regulatory standards.</p>  <h2>Enhancing User Experience: The Heart of Financial App Success</h2>\n\n  <p>React Native's impact extends beyond technical capabilities to encompass user experience. Smooth and responsive interfaces make navigation and financial management intuitive, while customizable components allow developers to tailor features and designs to specific banking and budgeting needs. Push notifications provide real-time alerts for transactions, budget limits, and banking updates, ensuring users stay informed and in control of their finances.</p>\n\n  <h2>React Native: The Future of Financial Technology</h2>\n\n  <p>React Native's robust ecosystem and flexible architecture make it an ideal choice for developing cutting-edge financial apps. With its ability to deliver secure, efficient, and engaging financial management tools, React Native is at the forefront of shaping the future of financial technology.</p>\n\n  <p>As the financial industry continues to evolve, React Native will undoubtedly play a pivotal role in shaping its future. With its ability to seamlessly integrate with existing systems, connect with users across devices, and deliver a superior user experience, React Native is poised to revolutionize the way we interact with our finances.</p>\n\n  <p>Embrace the power of React Native and join us in shaping the future of financial technology. Together, we can create a world where financial tools are secure, accessible, and empowering for all.</p></div>",
+      "status": "The project is sample",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "3 month",
+      "members": "3 team members",
+      "picture": "portfolio/sample-3.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/sample-3.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "mobile",
+      "title": "MYND",
+      "title_seo": "MYND is an innovative mental health app offering personalized support through AI, developed by Devinity.AI",
+      "description_short": "MYND is an innovative mental health app offering personalized support through AI, developed by Devinity.AI . Personal AI Companion is a central feature of MYND, providing real-time support based on user’s mood and preferences. The app also features AI-Generated Meditation sessions, creating custom scripts tailored to the user's goals and problems.",
+      "description": "<div><p>MYND is an innovative mental health app offering personalized support through AI, developed by Devinity.AI . Personal AI Companion is a central feature of MYND, providing real-time support based on user’s mood and preferences. The app also features AI-Generated Meditation sessions, creating custom scripts tailored to the user's goals and problems.<br>Utilizing the power of GPT-4o and Eleven Labs TTS, MYND delivers personalized and responsive mental health support. The app is built with React-Native, ensuring a seamless and intuitive user experience, and supported by a robust Node.js backend.<br>We brought MYND from concept to market in just 1.5 months, demonstrating the efficiency and dedication of our team.</p></div>",
+      "videos": [
+        {
+          "id": 1,
+          "url": "mobile-mynd-project-1.mov",
+          "alt": "",
+          "image": "portfolio/mynd/video-1.png"
+        },
+        {
+          "id": 2,
+          "url": "mobile-mynd-project-2.mov",
+          "alt": "",
+          "image": "portfolio/mynd/video-2.png"
+        }
+      ],
+      "status": "The project was completed",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "1.5 months",
+      "members": "1 team member",
+      "picture": "portfolio/mynd/1.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/mynd/1.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "web",
+      "title": "TekBook",
+      "title_seo": "TekBook is an AI-powered social media platform connecting IT professionals and making headhunting accessible to everyone.",
+      "description_short": "TekBook is an AI-powered social media platform connecting IT professionals and making headhunting accessible to everyone. Developed by Devinity.AI, TekBook features OpenAI-powered resume generation, enabling users to create professional resumes effortlessly. Users can sign up, make posts, chat with friends via WebSockets, search for job vacancies, and create business pages auto-filled with AI.",
+      "description": "<div><p>TekBook is an AI-powered social media platform connecting IT professionals and making headhunting accessible to everyone.<br>Developed by Devinity.AI, TekBook features OpenAI-powered resume generation, enabling users to create professional resumes effortlessly. Users can sign up, make posts, chat with friends via WebSockets, search for job vacancies, and create business pages auto-filled with AI.<br>Built with React and Node.js, TekBook offers a seamless and intuitive user experience. TekBook was brought from concept to market in just 1.5 months, showcasing the efficiency and dedication of our team.</p></div>",
+      "status": "The project was completed",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "1.5 months",
+      "members": "1 team member",
+      "picture": "portfolio/tekbook/1.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/tekbook/1.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "mobile",
+      "title": "Slide",
+      "title_seo": "Slide App is a concept app that revolutionizes the way users initiate direct messaging, making it incredibly easy and intuitive to “slide” into each other’s DMs.",
+      "description_short": "Slide App is a concept app that revolutionizes the way users initiate direct messaging, making it incredibly easy and intuitive to “slide” into each other’s DMs.",
+      "description": "<div><p>Slide App is a concept app that revolutionizes the way users initiate direct messaging, making it incredibly easy and intuitive to “slide” into each other’s DMs.<br>Designed with user-friendly features, Slide App streamlines the process of sending direct messages by providing a seamless interface that encourages spontaneous and effortless communication. With its innovative swipe-to-message functionality, users can quickly connect with new people or engage with friends and followers without the usual hassle.</p></div>",
+      "status": "The project was completed",
+      "country": {
+        "name": "United States",
+        "code": "US"
+      },
+      "time": "1 months",
+      "members": "1 team member",
+      "picture": "portfolio/slide/1.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/slide/1.png",
+          "alt": ""
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Denys Bondarenko",
+      "position": "CEO & Founder",
+      "description": "Denys, the founder of Devinity.AI  LLC, is dedicated to making software and web development client-centric. He has led various projects, from mobile games to professional CRM systems. Passionate about high-quality solutions, Denys ensures your time with Devinity will be one of the best experiences in your career.",
+      "image": "teams/denys.jpg",
+      "linkedin": "https://www.linkedin.com/in/denys-bondarenko-376796206"
+    },
+    {
+      "id": 2,
+      "name": "Khizir Musaiev",
+      "position": "Co-founder",
+      "description": "Khizir, co-founder of Devinity.AI  LLC, drives the client-focused approach in software development. With a wealth and business management background, he has shaped projects from tech startups to major corporations. Khizir is committed to making every interaction with Devinity a standout professional experience.",
+      "image": "teams/KhizirMusaiev.jpeg",
+      "linkedin": "https://www.linkedin.com/in/khizir-musaiev-53810b239/"
+    }
+  ],
+  "aboutUs": {
+    "description": "At Devinity.AI, we believe great software development shouldn't cost a fortune. With this idea in mind, we've helped countless startup founders bring their ideas to life and streamlined business operations through automation. Our team has been honing its skills since the early 2010s, and now we're proudly using that experience to help our clients succeed.",
+    "list": [
+      "\uD83D\uDCF1 App Development: Beyond crafting digital experiences — we offer peace of mind with pay-on-delivery service.",
+      "\uD83D\uDD17 Blockchain Expertise: Unlocking new possibilities with affordable, decentralized solutions.",
+      "\uD83E\uDD16 AI Integration: Embedding intelligence into your business ecosystem, tailored to your strategic.",
+      "\uD83C\uDF10 Web Design: Precision and creativity in your online presence, with transparent pricing.",
+      "\uD83C\uDFAE Game Creation: Captivating gaming experiences designed to engage and delight users.",
+      "\uD83D\uDD04 Business Automation: Streamlining your operations for the digital age, enhancing efficiency and reducing costs.",
+      "\uD83D\uDE80 Global Solutions: Your partners in a borderless digital world, delivering value every step of the way."
+    ]
+  },
+  "aboutUsDescriptions": [
+    {
+      "id": 1,
+      "label": "Our Philosophy",
+      "description": "At Devinity.AI, we're all about passion for tech and value-driven innovation. We run on low profit margins to deliver top-notch quality at great prices. For us, pushing tech forward means helping startups, passionate individuals, and efficiency-seeking businesses—not just making money. We offer a pay-on-delivery system, so clients only pay when they're happy with the milestones. Clients control the pace and involvement, reflecting our belief in true partnership and collaboration.",
+      "list": null
+    },
+    {
+      "id": 2,
+      "label": "Our Promise",
+      "description": "Dedication is at our core. We treat every idea like it's our own because your goals are our goals too. Got an idea? Just share it with us. Our vibe is super supportive and friendly, so everyone's ideas get a fair shot, whether they're from the CEO or a junior team member. We're all about cutting through the fluff with real professionalism, constantly expanding our toolkit to make sure every concept isn't just possible but actually gets done.",
+      "list": [
+        "Unmatched Value: We pledge to provide competitive pricing through our industry-leading low profit margins.",
+        "Quality Guarantee: Committed to excellence, we will work with you until you are satisfied, offering a quality guarantee with unlimited revisions—terms apply.",
+        "Payment Flexibility: Our pay-on-delivery system ensures you pay only when you are confident with the achieved milestones.",
+        "Client-Centric Rhythm: The tempo of project development is yours to command, allowing for full synchronization with your business objectives.",
+        "Adaptable Collaboration: We embrace flexibility to provide personalized service, adapting to your desired level of involvement.",
+        "Success in Milestones: We deliver not just digital solutions, but milestones that mark significant progress in your venture's journey."
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ilyas",
+      "time": "0:26",
+      "image": "reviews/Illia.jpg",
+      "video": "Illia2.mov"
+    },
+    {
+      "id": 2,
+      "name": "Diana",
+      "time": "0:19",
+      "image": "reviews/Diana.jpg",
+      "video": "Diana2.mov"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How much time does the development process usually take?",
+      "answer": "Each project we undertake is distinctive, with its own set of requirements and scope. Development time can differ significantly, especially between websites and apps, primarily influenced by the level of desired functionality and the intricacy of the design. To provide a preliminary timeframe, we invite you to use our quote calculation tool available on our website. This tool takes into consideration various factors to give you a tailored estimate.",
+      "open": true
+    },
+    {
+      "question": "What technologies do you use?",
+      "answer": "Our team boasts expertise in a wide array of technologies, ensuring we can meet the diverse needs of our clients. We exceed our customer’s expectations in the development of AI-powered mobile and web products. Specifically, our in-house experts are proficient in: React.js, React Native, Node.js, Electron, GraphQL, Apollo, MongoDB, SQL, REST APIs, WebSocket, MQTT, Stripe, LiqPay, Fondy, Unit Tests, Component Tests, API Testing, Arduino IDE, PHP, YII2, JavaScript (JS), jQuery, OpenAI API, Python, Gemini AI API, OpenAI Products, MapBox, Google Maps, Twilio and Xcode."
+    },
+    {
+      "question": "What is the cost of your services?",
+      "answer": "We are dedicated to working within your budget and offer various pricing models based on the project's expertise requirements. Our standard hourly rate for a full-stack developer is $22, with a daily rate of $120. However, we typically prefer fixed-price, milestone-based arrangements to protect clients from unexpected charges and hourly rates."
+    },
+    {
+      "question": "Does your work require prepayment?",
+      "answer": "To initiate the development process, we typically require a prepayment in the range of $200 to $300. This initial step is essential for team assembly and the initial design phase, allowing us to align our resources effectively to meet your project's unique demands."
+    },
+    {
+      "question": "Does your work require a pre-payment or a deposit?",
+      "answer": "The payment terms depend on the client's preferences. We offer the option to work through escrow and mediation services like escrow.com or UpWork. Alternatively, if the client is a legal resident and taxpayer in the United States, Canada, the United Kingdom, or any EU country (excluding most Balkan and Baltic countries), we can proceed without a deposit or escrow, using an invoice-based approach. For clients outside these regions, a pre-payment of 50% is required before each milestone begins."
+    },
+    {
+      "question": "How many people work on the project?",
+      "answer": "The size of the development team depends on your project's timeline and urgency. Many projects can be completed within one month by a single developer. For more complex tasks, a team of 2-3 developers is often efficient. We are flexible and ready to scale our workforce up or down to ensure your project is delivered efficiently and to the highest standard."
+    },
+    {
+      "question": "How do you ensure the quality of your code?",
+      "answer": "We ensure the quality of our code through extensive Quality Assurance (QA) processes and a commitment to continuous improvement (Kaizen). Our QA processes include rigorous testing at every stage of development, such as unit tests, integration tests, and end-to-end tests. We also conduct regular code reviews to maintain high coding standards and identify potential issues early. By embracing the principles of Kaizen, we continuously refine our development practices to enhance efficiency and quality."
+    },
+    {
+      "question": "How do you handle changes in project scope?",
+      "answer": "We handle changes in project scope by pre-planning and outlining all work in a Statement of Work (SOW). The SOW is a detailed document that defines the project’s objectives, deliverables, timeline, and specific tasks. By adhering to the SOW, we ensure that both parties have a clear understanding of the project’s scope from the outset. Any changes to the scope are subject to review and approval by both parties, ensuring that all adjustments are managed in a controlled and transparent manner."
+    },
+    {
+      "question": "What types of projects do you specialize in?",
+      "answer": "We specialize in mobile, web, and AI integration projects. Our expertise particularly shines in OpenAI technologies, and we have a robust portfolio demonstrating our cutting-edge capabilities in this area. In addition to OpenAI, we also work extensively with Gemini AI and Mistral AI, allowing us to provide a comprehensive range of AI solutions tailored to your needs."
+    },
+    {
+      "question": "How do you ensure the project stays on schedule?",
+      "answer": "We ensure the project stays on schedule by strictly adhering to the Statement of Work (SOW) and the defined project scope. By maintaining rigorous quality control and ensuring the product is bug-free at each iteration, we keep the project on track and prevent delays. This disciplined approach allows us to meet deadlines and deliver high-quality results consistently."
+    },
+    {
+      "question": "What kind of support do you offer after the project is completed?",
+      "answer": "We offer a complimentary 6-month support period after the project is completed, free of charge. During this time, we fix any bugs that may arise and provide limited DevOps support to ensure the smooth operation of your product."
+    }
+  ],
+  "calculator": {
+    "design": {
+      "name": "How complex would you like the design to be?",
+      "services": [
+        {
+          "id": 5,
+          "name": "Basic",
+          "time": 0
+        },
+        {
+          "id": 6,
+          "name": "Advanced",
+          "time": 7
+        },
+        {
+          "id": 7,
+          "name": "Professional",
+          "time": 14
+        }
+      ]
+    },
+    "classic": {
+      "types": {
+        "name": "What kind of product do you want to build?",
+        "services": [
+          {
+            "id": 1,
+            "name": "Website",
+            "time": 0,
+            "child": {
+              "name": "What kind of website do you want to build?",
+              "services": [
+                {
+                  "id": 8,
+                  "name": "Personal",
+                  "time": 7
+                },
+                {
+                  "id": 9,
+                  "name": "Corporate",
+                  "time": 30
+                },
+                {
+                  "id": 10,
+                  "name": "E-commerce",
+                  "time": 60
+                },
+                {
+                  "id": 11,
+                  "name": "CRM",
+                  "time": 60
+                },
+                {
+                  "id": 12,
+                  "name": "Blog",
+                  "time": 7
+                },
+                {
+                  "id": 13,
+                  "name": "Portfolio",
+                  "time": 7
+                },
+                {
+                  "id": 14,
+                  "name": "News Site or Magazine",
+                  "time": 7
+                },
+                {
+                  "id": 15,
+                  "name": "Educational Resource",
+                  "time": 7
+                },
+                {
+                  "id": 16,
+                  "name": "Social Network",
+                  "time": 30
+                },
+                {
+                  "id": 17,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 2,
+            "name": "App",
+            "time": 30,
+            "child": {
+              "name": "What kind of app do you want to build?",
+              "services": [
+                {
+                  "id": 18,
+                  "name": "Social Networking",
+                  "time": 14
+                },
+                {
+                  "id": 20,
+                  "name": "Productivity",
+                  "time": 14
+                },
+                {
+                  "id": 21,
+                  "name": "Health and Fitness",
+                  "time": 14
+                },
+                {
+                  "id": 22,
+                  "name": "E-commerce",
+                  "time": 30
+                },
+                {
+                  "id": 23,
+                  "name": "Financial",
+                  "time": 30
+                },
+                {
+                  "id": 24,
+                  "name": "CRM",
+                  "time": 30
+                },
+                {
+                  "id": 25,
+                  "name": "Multimedia",
+                  "time": 30
+                },
+                {
+                  "id": 26,
+                  "name": "Travel and Location-based",
+                  "time": 14
+                },
+                {
+                  "id": 27,
+                  "name": "Educational",
+                  "time": 14
+                },
+                {
+                  "id": 28,
+                  "name": "News",
+                  "time": 14
+                },
+                {
+                  "id": 29,
+                  "name": "Utility",
+                  "time": 30
+                },
+                {
+                  "id": 30,
+                  "name": "Gaming",
+                  "time": 30
+                },
+                {
+                  "id": 31,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "name": "Desktop",
+            "time": 30,
+            "child": {
+              "name": "What kind of desktop app do you want to build?",
+              "services": [
+                {
+                  "id": 31,
+                  "name": "Multimedia",
+                  "time": 30
+                },
+                {
+                  "id": 32,
+                  "name": "Communication",
+                  "time": 30
+                },
+                {
+                  "id": 33,
+                  "name": "Financial",
+                  "time": 30
+                },
+                {
+                  "id": 34,
+                  "name": "Educational",
+                  "time": 30
+                },
+                {
+                  "id": 35,
+                  "name": "Medical",
+                  "time": 30
+                },
+                {
+                  "id": 36,
+                  "name": "Utility",
+                  "time": 30
+                },
+                {
+                  "id": 37,
+                  "name": "Gaming",
+                  "time": 30
+                },
+                {
+                  "id": 38,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "name": "LoT",
+            "time": 60,
+            "child": {
+              "name": "Optionals",
+              "services": [
+                {
+                  "id": 39,
+                  "name": "Temperature sensor",
+                  "time": 7
+                },
+                {
+                  "id": 40,
+                  "name": "Distance sensor",
+                  "time": 14
+                },
+                {
+                  "id": 41,
+                  "name": "Weight sensor",
+                  "time": 14
+                },
+                {
+                  "id": 42,
+                  "name": "Relays",
+                  "time": 14
+                },
+                {
+                  "id": 43,
+                  "name": "Switches",
+                  "time": 14
+                },
+                {
+                  "id": 44,
+                  "name": "WiFi",
+                  "time": 7
+                },
+                {
+                  "id": 45,
+                  "name": "Ethernet",
+                  "time": 7
+                },
+                {
+                  "id": 46,
+                  "name": "RFID",
+                  "time": 30
+                },
+                {
+                  "id": 47,
+                  "name": "RS485",
+                  "time": 30
+                },
+                {
+                  "id": 48,
+                  "name": "1-wire",
+                  "time": 30
+                },
+                {
+                  "id": 49,
+                  "name": "e2c",
+                  "time": 30
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "steps": [
+        {
+          "stepId": 4,
+          "name": "Do you want to process payments?",
+          "services": [
+            {
+              "id": 71,
+              "name": "Credit card (Stripe, Paypal)",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 72,
+              "name": "In-__type__ purchases",
+              "time": 3,
+              "hide": "Website",
+              "only": ""
+            },
+            {
+              "id": 73,
+              "name": "Crypto",
+              "time": 5,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 74,
+              "name": "Without payments",
+              "time": 0,
+              "hide": "",
+              "only": ""
+            }
+          ]
+        }
+      ]
+    },
+    "blockchain": {
+      "types": {
+        "name": "What kind of product do you want to build?",
+        "services": [
+          {
+            "id": 86,
+            "name": "Website",
+            "time": 0,
+            "child": {
+              "name": "What kind of website do you want to build?",
+              "services": [
+                {
+                  "id": 8,
+                  "name": "Personal",
+                  "time": 7
+                },
+                {
+                  "id": 9,
+                  "name": "Corporate",
+                  "time": 30
+                },
+                {
+                  "id": 10,
+                  "name": "E-commerce",
+                  "time": 60
+                },
+                {
+                  "id": 11,
+                  "name": "CRM",
+                  "time": 60
+                },
+                {
+                  "id": 12,
+                  "name": "Blog",
+                  "time": 7
+                },
+                {
+                  "id": 13,
+                  "name": "Portfolio",
+                  "time": 7
+                },
+                {
+                  "id": 14,
+                  "name": "News Site or Magazine",
+                  "time": 7
+                },
+                {
+                  "id": 15,
+                  "name": "Educational Resource",
+                  "time": 7
+                },
+                {
+                  "id": 16,
+                  "name": "Social Network",
+                  "time": 30
+                },
+                {
+                  "id": 17,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 87,
+            "name": "App",
+            "time": 30,
+            "child": {
+              "name": "What kind of app do you want to build?",
+              "services": [
+                {
+                  "id": 18,
+                  "name": "Social Networking",
+                  "time": 14
+                },
+                {
+                  "id": 20,
+                  "name": "Productivity",
+                  "time": 14
+                },
+                {
+                  "id": 21,
+                  "name": "Health and Fitness",
+                  "time": 14
+                },
+                {
+                  "id": 22,
+                  "name": "E-commerce",
+                  "time": 30
+                },
+                {
+                  "id": 23,
+                  "name": "Financial",
+                  "time": 30
+                },
+                {
+                  "id": 24,
+                  "name": "CRM",
+                  "time": 30
+                },
+                {
+                  "id": 25,
+                  "name": "Multimedia",
+                  "time": 30
+                },
+                {
+                  "id": 26,
+                  "name": "Travel and Location-based",
+                  "time": 14
+                },
+                {
+                  "id": 27,
+                  "name": "Educational",
+                  "time": 14
+                },
+                {
+                  "id": 28,
+                  "name": "News",
+                  "time": 14
+                },
+                {
+                  "id": 29,
+                  "name": "Utility",
+                  "time": 30
+                },
+                {
+                  "id": 30,
+                  "name": "Gaming",
+                  "time": 30
+                },
+                {
+                  "id": 31,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 88,
+            "name": "Both",
+            "time": 60,
+            "child": {
+              "name": "What kind of website & app do you want to build?",
+              "services": [
+                {
+                  "id": 18,
+                  "name": "Social Networking",
+                  "time": 14
+                },
+                {
+                  "id": 20,
+                  "name": "Productivity",
+                  "time": 14
+                },
+                {
+                  "id": 21,
+                  "name": "Health and Fitness",
+                  "time": 14
+                },
+                {
+                  "id": 22,
+                  "name": "E-commerce",
+                  "time": 30
+                },
+                {
+                  "id": 23,
+                  "name": "Financial",
+                  "time": 30
+                },
+                {
+                  "id": 24,
+                  "name": "CRM",
+                  "time": 30
+                },
+                {
+                  "id": 25,
+                  "name": "Multimedia",
+                  "time": 30
+                },
+                {
+                  "id": 26,
+                  "name": "Travel and Location-based",
+                  "time": 14
+                },
+                {
+                  "id": 27,
+                  "name": "Educational",
+                  "time": 14
+                },
+                {
+                  "id": 28,
+                  "name": "News",
+                  "time": 14
+                },
+                {
+                  "id": 29,
+                  "name": "Utility",
+                  "time": 30
+                },
+                {
+                  "id": 30,
+                  "name": "Gaming",
+                  "time": 30
+                },
+                {
+                  "id": 31,
+                  "name": "Other",
+                  "time": 0
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "steps": [
+        {
+          "stepId": 4,
+          "name": "Which features will your __type__ have?",
+          "services": [
+            {
+              "id": 93,
+              "name": "NFT Minting",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 94,
+              "name": "NFT Marketplace",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 95,
+              "name": "Opensea API integration",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 96,
+              "name": "Portfolio tracking (Moralis)",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 97,
+              "name": "Launchpad",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 98,
+              "name": "DeX (Uniswap etc.)",
+              "time": 3,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 99,
+              "name": "Cross-chain bridges integration",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            }
+          ]
+        },
+        {
+          "stepId": 5,
+          "name": "Which chain would you like to use?",
+          "services": [
+            {
+              "id": 100,
+              "name": "ETH, BSC, or Polygon",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 101,
+              "name": "Solana",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 102,
+              "name": "Near",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 103,
+              "name": "Algorand",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 104,
+              "name": "Hedera",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 105,
+              "name": "Cairo",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 106,
+              "name": "Cardano",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            }
+          ]
+        },
+        {
+          "stepId": 6,
+          "name": "How do you want to process payments?",
+          "services": [
+            {
+              "id": 107,
+              "name": "Native on-chain payments",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 108,
+              "name": "Credit card crypto payments (WIRE, Stripe or Moonpay)",
+              "time": 7,
+              "hide": "",
+              "only": ""
+            },
+            {
+              "id": 109,
+              "name": "Without payments",
+              "time": 0,
+              "hide": "",
+              "only": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "article": [
+    {
+      "id": 1,
+      "title": "Blockchain",
+      "title_seo": "Innovative Blockchain Solutions for Efficient | Devinity LLC",
+      "description_short": "Focusing on secure ledger tech, we specialize in crafting custom blockchain for enhanced transparency and efficiency in supply chain management and fintech.",
+      "description": "<div><h1>Blockchain</h1>\n\n  <p>Blockchain is a distributed ledger technology (DLT) that records data in a way that is secure, transparent, and tamper-proof. It is a revolutionary technology with the potential to transform many industries, including finance, healthcare, and supply chain management.</p>\n\n  <h2>What is a blockchain?</h2>\n\n  <p>A blockchain is a growing list of records (blocks) that are secured by cryptography. Each block contains a timestamp and a link to the previous block. This creates a chain of blocks that cannot be tampered with or altered.</p>\n\n  <p>Blockchains are typically managed by a network of computers, called nodes. These nodes verify and validate transactions before adding them to the blockchain. This ensures that the data on the blockchain is secure and accurate.</p>\n\n  <h2>How does blockchain work?</h2>\n\n  <p>Blockchain technology works through a process of consensus. This is a mechanism that ensures that all nodes in the network agree on the current state of the blockchain. There are many different consensus algorithms, but they all share the same goal of preventing fraud and ensuring the integrity of the data.</p>\n\n  <p>One of the most common consensus algorithms is Proof of Work (PoW). PoW requires miners to solve complex mathematical puzzles in order to add new blocks to the blockchain. This process is computationally expensive, but it helps to ensure that the network is secure and that no single node can control it.</p>\n\n  <h2>Benefits of blockchain</h2>\n\n  <p>Blockchain technology offers several benefits over traditional data storage methods. These include:</p>\n\n  <ul>\n    <li>Security: Blockchain data is secure from tampering and fraud because it is encrypted and dispersed across a network of computers.</li>\n    <li>Transparency: Blockchain records are transparent and can be viewed by anyone with access to the network. This makes it difficult to hide or manipulate data.</li>\n    <li>Immutability: Once data is added to the blockchain, it cannot be changed. This makes blockchain ideal for storing records that need to be tamper-proof, such as contracts and financial transactions.</li>\n    <li>Efficiency: Blockchain transactions are typically faster and cheaper than traditional transactions because they do not require intermediaries.</li>\n  </ul>\n\n  <h2>Potential applications of blockchain</h2>\n\n  <p>Blockchain technology has the potential to revolutionize many industries, including:</p>\n\n  <ul>\n    <li>Finance: Blockchain can be used to create secure and transparent financial systems, such as cryptocurrency exchanges and smart contracts.</li>\n    <li>Healthcare: Blockchain can be used to store and share patient data securely, which could improve patient care and medical research.</li>\n    <li>Supply chain management: Blockchain can be used to track the movement of goods from source to destination, which could improve efficiency and reduce fraud.</li>\n    <li>Government: Blockchain can be used to create more transparent and accountable government systems.</li>\n  </ul>\n\n  <p>Blockchain technology is still in its early stages of development, but it has the potential to have a profound impact on the world. As the technology matures, we can expect to see it being used in a wider range of applications.</p>\n\n  <p>Disclaimer: This is not investment advice. Please do your own research before investing in any cryptocurrency or blockchain-based project.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_1.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Web",
+      "title_seo": "We Develop Websites & Creative Designs | Devinity LLC",
+      "description_short": "We specialize in high-traffic websites, optimized for peak performance. Captivating designs, robust admin panels streamline seamless business management.",
+      "description": "<div><h1>Websites</h1>\n\n  <p>A website is a collection of web pages that are linked together and share a common domain name. Websites are typically created to provide information about a company, organization, or individual. They can also be used to sell products or services, share news and updates, or connect with others.</p>\n\n  <h2>Parts of a Website</h2>\n\n  <p>A website typically consists of the following parts:</p>\n\n  <ul>\n    <li>Homepage: The main page of a website, which typically provides an overview of the website's content and links to other pages.</li>\n    <li>Web pages: Individual pages on a website that contain specific information or content.</li>\n    <li>Hyperlinks: Links that allow users to navigate between different web pages and websites.</li>\n    <li>Design: The visual appearance of a website, including its layout, colors, and fonts.</li>\n    <li>Content: The information that is displayed on a website, such as text, images, videos, and audio.</li>\n    <li>Technology: The underlying technology that is used to create and maintain a website, such as HTML, CSS, and JavaScript.</li>\n  </ul>\n\n  <h2>Creating a Website</h2>\n\n  <p>There are many ways to create a website. You can hire a web developer to create a custom website for you, or you can use a website builder to create a website yourself. Website builders are often easy to use and can be a good option for beginners.</p>\n\n  <h2>Types of Websites</h2>\n\n  <p>There are many different types of websites, including:</p>\n\n  <ul>\n    <li>Corporate websites: Websites that are created for businesses to promote their products or services.</li>\n    <li>Ecommerce websites: Websites that allow users to purchase products or services online.</li>\n    <li>Blogs: Websites that are used to share written content, such as articles or opinions.</li>\n    <li>Social media websites: Websites that allow users to connect with friends and family and share information.</li>\n    <li>Portfolio websites: Websites that showcase a person's work or skills.</li>\n  </ul>\n\n  <p>Websites are an essential part of the modern world. They provide a way for businesses to connect with customers, organizations to share their mission, and individuals to express themselves.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_2.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Server",
+      "title_seo": "Setting server for reliable, scalable systems | Devinity LLC",
+      "description_short": "We provide server solutions with advanced cloud integration and microservices architecture, enabling robust backend support for high-availability systems.",
+      "description": "<div><h1>Empower Your Business with Scalable and Robust Server Solutions</h1>\n\n  <p>In today's dynamic and data-driven world, organizations rely heavily on robust server infrastructure to support their critical applications and maintain high availability. Our comprehensive server solutions deliver the power and agility you need to seamlessly scale and adapt to evolving business demands.</p>\n\n  <h2>Advanced Cloud Integration</h2>\n\n  <p>We seamlessly integrate your server infrastructure with the cloud, enabling you to leverage the benefits of both on-premises and cloud-based resources. This hybrid approach provides flexibility, cost-effectiveness, and scalability, allowing you to optimize your infrastructure for peak performance.</p>\n\n  <h2>Microservices Architecture</h2>\n\n  <p>We employ microservices architecture, a modern approach to application development that breaks down applications into smaller, modular services. This architecture promotes agility, resilience, and maintainability, enabling you to respond quickly to changing business requirements and minimize downtime.</p>\n\n  <h2>Benefits of Our Server Solutions</h2>\n\n  <ul>\n    <li>Scalability: Seamlessly scale your server infrastructure to meet fluctuating workloads and unpredictable demand.</li>\n    <li>Robustness: Ensure business continuity with highly resilient server solutions that can withstand unexpected disruptions.</li>\n    <li>Cost-Effectiveness: Optimize your IT expenses by leveraging a hybrid cloud approach and minimizing infrastructure overhead.</li>\n    <li>Agility: Respond swiftly to changing business needs and adapt to new technologies with our flexible server solutions.</li>\n  </ul>\n\n  <h2>Elevate Your IT Infrastructure with Our Expertise</h2>\n\n  Our experienced team of engineers and architects designs and implements server solutions tailored to your specific business requirements and technical landscape. We provide comprehensive support throughout the lifecycle of your infrastructure, ensuring optimal performance, security, and reliability.\n\n  <p>Embark on a journey towards enhanced IT agility and efficiency with our advanced server solutions. Contact us today to discuss your unique needs and explore how we can transform your IT infrastructure into a powerhouse of innovation and growth.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_3.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mobile",
+      "title_seo": "Smart AI solutions for user experience | Devinity LLC",
+      "description_short": "Our mobile applications integrate AI to enhance user experience and functionality, providing smart solutions and personalized interactions for users on the go.",
+      "description": "<div><h1>Mobile Apps: iOS vs. Android</h1>\n\n<p>Mobile apps have become an essential part of our daily lives, providing us with a vast array of features and services. With so many options available, it's important to understand the differences between iOS and Android, the two leading mobile operating systems.</p>\n\n<p><b>iOS</b> is the operating system developed by Apple for its iPhone and iPad devices. It is known for its user-friendly interface, high-quality apps, and tight integration with other Apple products.<p><b>Android</b> is the operating system developed by Google for a wide range of devices, including smartphones, tablets, and wearables. It is known for its openness and flexibility, allowing developers to create apps for a variety of devices and screen sizes.\n\n<h2>Key Differences between iOS and Android</h2>\n\n<p>Here are some of the key differences between iOS and Android:</p>\n\n<ul>\n  <li><b>User Interface:</b> iOS has a more traditional, skeuomorphic interface, while Android has a more modern, flat design.</li>\n  <li><b>App Store:</b> The iOS App Store is more curated, with a stricter approval process, while the Google Play Store is more open, with a wider range of apps.</li>\n  <li><b>Price:</b> iOS apps are typically more expensive than Android apps.</li>\n  <li><b>Customization:</b> iOS is less customizable than Android, with fewer options for customizing the look and feel of the operating system.</li>\n</ul>\n\n<h2>Choosing between iOS and Android</h2>\n\n<p>The best way to choose between iOS and Android is to consider your own needs and preferences. If you value a user-friendly interface and high-quality apps, iOS may be a good choice. If you prefer a more open and customizable experience, Android may be a better option.</p>\n\n<p>Here is a table that summarizes the key differences between iOS and Android:</p> <p>Ultimately, the best way to decide which operating system is right for you is to try out both iOS and Android devices and see which one you prefer.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_4.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Artificial Intelligence",
+      "title_seo": "Boost your business efficiency with AI | Devinity LLC",
+      "description_short": "Enhance business efficiency with AI. Streamlining operations, automating processes, analyzing trends, and predicting outcomes to drive innovation your business.",
+      "description": "<div><h1>Artificial Intelligence in Business: Unlocking Efficiency and Innovation</h1>\n\n  <p>Artificial intelligence (AI) is transforming the way businesses operate, driving efficiency, innovation, and competitive advantage. By harnessing the power of machine learning algorithms, businesses can automate processes, analyze vast amounts of data, and make informed predictions that lead to better decision-making.</p>\n\n  <h2>Streamlining Operations with AI Automation</h2>\n\n  <p>AI automation can revolutionize repetitive and time-consuming tasks, freeing up human employees to focus on more strategic and value-added activities. AI-powered chatbots can handle customer inquiries 24/7, while AI-powered data entry tools can automate manual data entry processes, reducing errors and improving accuracy.</p>\n\n  <p>AI can also automate procurement processes, identifying the most cost-effective suppliers and negotiating better deals. In manufacturing, AI can optimize production scheduling, reduce downtime, and improve product quality.</p>\n\n  <h2>Unveiling Insights through Data Analysis</h2>\n\n  <p>AI can analyze vast amounts of data, extracting patterns and insights that would be impossible for humans to detect. This data-driven approach can help businesses identify new opportunities, optimize marketing campaigns, and better understand customer behavior.</p>\n\n  <p>AI-powered analytics can predict customer churn, enabling businesses to proactively address customer concerns and prevent defection. It can also predict sales trends, helping businesses plan inventory and demand effectively.</p>\n\n  <h2>Predicting Outcomes for Strategic Decision-Making</h2>\n\n  <p>AI can predict future events and outcomes, providing businesses with valuable insights for strategic decision-making. AI-powered risk assessment tools can help businesses identify and mitigate potential risks, while AI-powered fraud detection systems can protect businesses from financial losses.</p>\n\n  <p>AI can also predict customer behavior, helping businesses tailor marketing campaigns and product offerings to individual preferences. This personalized approach can lead to increased customer engagement and satisfaction.</p>\n\n  <h2>Unlocking the Full Potential of AI</h2>\n\n  <p>To fully reap the benefits of AI, businesses need to adopt a strategic approach that integrates AI into their operations and cultures. This includes developing a strong AI infrastructure, investing in AI talent, and establishing clear AI governance policies.</p>\n\n  <p>As AI continues to evolve, the opportunities for businesses to innovate and gain a competitive edge will only grow. By embracing AI and leveraging its power to automate, analyze, and predict, businesses can achieve greater efficiency, innovation, and success in the ever-changing business landscape.</p>\n\n  <p>Are you ready to harness the power of AI and transform your business?</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_5.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Desktop",
+      "title_seo": "Desktop apps for streamlined your business | Devinity LLC",
+      "description_short": "Tailored desktop development. Developing custom business management applications for comprehensive functionality, similar to SAP, to streamline operations.",
+      "description": "<div><h1>Desktop Applications: The Backbone of Efficient Enterprise Operations</h1>\n\n  <p>Desktop applications have long been the cornerstone of enterprise IT, providing businesses with the tools they need to manage their operations effectively. These applications offer a range of benefits, including:</p>\n\n  <ul>\n    <li><b>Improved Efficiency:</b> Desktop applications can automate tasks, streamline workflows, and reduce manual data entry, leading to significant gains in productivity.</li>\n    <li><b>Enhanced Security:</b> Desktop applications can be deployed on secure company networks, reducing the risk of data breaches and unauthorized access.</li>\n    <li><b>Tailored Integration:</b> Desktop applications can be customized to meet the specific needs of each business.</li>\n    <li><b>Robust Scalability:</b> Desktop applications can easily scale to accommodate the growth of a business.</li>\n  </ul>\n\n  <p>As a result of these benefits, desktop applications are still widely used in many industries, including finance, healthcare, manufacturing, and retail. However, with the rise of cloud computing and web applications, some have questioned the continued relevance of desktop applications.</p>\n\n  <p>However, desktop applications still offer several advantages over cloud-based and web applications:</p>\n\n  <ul>\n    <li><b>Offline Capabilities:</b> Desktop applications can be used offline, ensuring that businesses can continue to operate even if the internet is unavailable.</li>\n    <li><b>Data Privacy:</b> Desktop applications store data locally, which can provide an additional layer of security.</li>\n    <li><b>Reduced Latency:</b> Desktop applications offer faster response times and lower latency than cloud-based or web applications.</li>\n    <li><b>Control:</b> Businesses have more control over the deployment, maintenance, and security of desktop applications.</li>\n  </ul>\n\n  <p>In conclusion, desktop applications remain a valuable tool for businesses seeking to streamline their operations and achieve greater efficiency. By providing robust functionality, offline capabilities, and enhanced security, desktop applications can help businesses maintain a competitive edge in today's dynamic business landscape.</p>\n\n  <h2>Example of Custom Desktop Applications</h2>\n\n  <p>Here are some examples of how desktop applications can be used to streamline enterprise operations:</p>\n\n  <ul>\n    <li><b>Customer Relationship Management (CRM):</b> Desktop CRM applications help businesses manage customer interactions, track sales opportunities, and improve customer satisfaction.</li>\n    <li><b>Enterprise Resource Planning (ERP):</b> Desktop ERP applications provide a centralized platform for managing financial, supply chain, and human resources operations.</li>\n    <li><b>Project Management:</b> Desktop project management applications help businesses plan, track, and manage their projects effectively.</li>\n    <li><b>Document Management:</b> Desktop document management applications help businesses organize, store, and share documents securely.</li>\n    <li><b>Manufacturing:</b> Desktop manufacturing applications help businesses manage production planning, scheduling, and quality control.</li>\n  </ul>\n\n  <p>These are just a few examples of how desktop applications can be used to improve efficiency and productivity in the workplace. As businesses continue to evolve, the demand for customized desktop applications is likely to grow.</p>\n\n  <h2>Conclusion</h2>\n\n  <p>Desktop applications are still an important part of the enterprise IT landscape, offering a range of benefits that can help businesses streamline their operations and achieve greater efficiency. As businesses adopt new technologies, desktop applications will continue to evolve to meet the changing needs of the modern enterprise.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_6.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Game",
+      "title_seo": "Crafting engaging budget-friendly mobile game | Devinity LLC",
+      "description_short": "Crafting engaging mobile games: Expertly utilizing Unity and Unreal Engine, we specialize in delivering high-quality, budget-friendly gaming experiences.",
+      "description": "<div><h1>Create Captivating Mobile Games with Our Low-Budget Development Services</h1>\n\n  <p>In today's competitive mobile gaming landscape, delivering engaging and high-quality experiences is crucial for success. Our game development services leverage the power of both Unity and Unreal Engine, industry-leading game engines, to craft immersive and captivating mobile games, even with limited budgets.</p>\n\n  <h2>Unity: A Versatile Platform for Mobile Game Development</h2>\n\n  <p>Unity is a powerful and versatile game engine renowned for its ease of use, cross-platform capabilities, and extensive asset store. We utilize Unity's strengths to develop engaging mobile games that adapt seamlessly to various devices and operating systems.</p>\n\n  <h2>Unreal Engine: Unleashing the Full Potential of Mobile Game Graphics</h2>\n\n  <p>Unreal Engine is known for its stunning graphics and advanced rendering capabilities, making it ideal for creating visually stunning mobile games. Our expertise in Unreal Engine enables us to produce high-end mobile games with cutting-edge visuals that captivate players.</p>\n\n  <h2>Our Approach to Low-Budget Mobile Game Development</h2>\n\n  <p>We understand that creating high-quality mobile games without compromising on budget is essential. Our approach focuses on:</p>\n\n  <ul>\n    <li>Efficient resource utilization: We carefully manage our resources and optimize our development processes to minimize costs without sacrificing quality.</li>\n    <li>Targeted game design: We focus on creating games with a clear target audience and engaging gameplay mechanics that resonate with a specific niche.</li>\n    <li>Strategic monetization: We implement effective monetization strategies to ensure the game generates revenue while maintaining a fair and enjoyable experience for players.</li>\n  </ul>\n\n  <h2>Benefits of Our Mobile Game Development Services</h2>\n\n  <p>Our mobile game development services offer several key benefits, including:</p>\n\n  <ul>\n    <li>High-quality games that captivate players: We deliver engaging and immersive gameplay experiences that keep players coming back for more.</li>\n    <li>Cost-effective solutions for limited budgets: We optimize our development processes to create high-quality games without breaking the bank.</li>\n    <li>Cross-platform compatibility: Our games are developed to run smoothly on a wide range of devices, ensuring maximum reach.</li>\n    <li>Customization and personalization: We tailor our services to meet your specific needs and requirements, ensuring a truly unique game experience.</li>\n  </ul>\n\n  <h2>Partner with Us to Create Your Next Mobile Game Success</h2>\n\n  <p>We invite you to partner with us to bring your mobile game vision to life. With our expertise in Unity and Unreal Engine, along with our commitment to low-budget development, we can help you create engaging and successful mobile games that captivate players and achieve your business goals.</p>\n\n  <p>Contact us today to discuss your mobile game project and let us help you bring your ideas to life.</p></div>",
+      "images": [
+        {
+          "id": 1,
+          "url": "technologies/technologies_7.png",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "blogItem": [
+    {
+      "id": 1,
+      "imgTop": "blog/items/blog-1-1.png",
+      "title": "Best practices in <br/> <span>Python</span> development",
+      "subTitle": "#Python practices",
+      "content": [
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code."
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code"
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. "
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-1-2"
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right <span>approach</span> will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code."
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code"
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. "
+        },
+        {
+          "type": "img",
+          "width": 50,
+          "data": "blog/items/blog-1-3"
+        },
+        {
+          "type": "img",
+          "width": 50,
+          "data": "blog/items/blog-1-4"
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in <span>Python</span> development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. "
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-1-5"
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development."
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in <span>Python development.</span> "
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. "
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development. Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's <span>understand</span> the best practices in Python development."
+        },
+        {
+          "type": "p",
+          "data": "Let's understand the best practices in Python development. This programming language has a lot of features, and the right approach will help you create better code. Let's understand the best practices in Python development."
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 2,
+      "imgTop": "blog/items/blog-item-2-4.png",
+      "title": "Make Apps Faster with AI—and Save Money",
+      "subTitle": "#AI",
+      "content": [
+        {
+          "type": "p",
+          "data": "Ever feel like you're juggling too many tasks (and not enough time) when building a mobile app? You're not alone. Getting an app to market can be complex, especially if you're worried about skyrocketing costs and tight deadlines. Fortunately, artificial intelligence (AI) has come a long way in helping teams move faster and spend less. "
+        },
+        {
+          "type": "p",
+          "data": "Below, let's dive into how modern frameworks like React Native, Expo, and the MERN stack, plus DevOps strategies and some real AI-powered tools, can speed up your mobile app development while cutting expenses."
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-1"
+        },
+        {
+          "type": "h3",
+          "data": "1. Why Getting to Market Faster Saves You Money"
+        },
+        {
+          "type": "p",
+          "data": "When you launch your app quickly, you can start gathering user feedback and generating revenue sooner—both of which are huge for long-term savings. On the flip side, delaying a launch means more development costs, less user engagement, and bigger bills overall."
+        },
+        {
+          "type": "p",
+          "data": "So how exactly does AI help you save time (and money)? By:"
+        },
+        {
+          "type": "inner",
+          "data": "<ul> <li> <strong>Automating Busywork</strong><br /> Repetitive tasks like code reviews and certain testing activities can eat up countless hours. AI can handle these chores quickly and accurately. </li> <li> <strong>Spotting Problems Before They Get Big</strong><br /> AI is great at catching bugs and inefficiencies early on, so you don’t spend weeks (and heaps of cash) fixing them last-minute. </li> <li> <strong>Predicting User Needs</strong><br /> Data-driven models can guide which features to develop next, so you don’t pour resources into tools that nobody wants. </li></ul>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-2"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>2. React Native + Expo: Rapid Cross-Platform Development </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why This Duo Works So Well</h4> <ul> <li> <strong>One Codebase, Two Platforms</strong><br /> React Native lets you create apps for iOS and Android simultaneously, so you only build once. Expo adds powerful extras—like easy testing and instant updates—so you can move even faster. </li> <li> <strong>Instant Changes</strong><br /> Over-the-air (OTA) updates from Expo mean you can fix minor bugs or tweak features without waiting for an app store review every time. </li> </ul> <h4>Where AI Fits In</h4> <ul> <li> <strong>Automated Code Suggestions</strong><br /> AI coding assistants can help generate boilerplate code or refactor existing sections, cutting your workload. </li> <li> <strong>Smart Performance Monitoring</strong><br /> Tools can analyze how your app runs on various devices, suggesting where to optimize for speed and memory usage. </li></ul>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-3"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 3. Speeding Up the Backend with the MERN Stack <h3> <p> The MERN stack—MongoDB, Express.js, React, and Node.js—keeps everything in one language (JavaScript). That saves time and headaches because your team won’t have to switch between different programming languages for the front end and back end. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Easy Scalability</h4> <ul> <li> <strong>Easy Scalability</strong><br /> MongoDB’s flexible structure makes it painless to add or update data models as your app grows. </li> <li> <strong>Great for AI Integration</strong><br /> Need to implement machine learning libraries or AI-driven features? Staying in one language simplifies those add-ons. </li> </ul> <h4>AI-Driven Perks</h4> <ul> <li> <strong>Predictive Analytics</strong><br /> Analyze real-time user data to forecast demand, then scale servers accordingly. </li> <li> <strong>Automated Caching</strong><br /> AI can learn which queries or pages are accessed most often, caching them to keep your app snappy without overloading your database. </li> </ul>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-4"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 4. DevOps: The Unsung Hero of Rapid Releases </h3> <p> If you’re trying to push updates at lightning speed, DevOps (especially Continuous Integration and Continuous Delivery) is essential. Instead of siloed teams and manual processes, DevOps unifies development and operations under automated pipelines. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<ul> <li> <strong>Fewer Last-Minute Surprises</strong><br /> Automated tests and checks catch errors early, so your releases are more stable. </li> <li> <strong>Real-Time Feedback</strong><br /> Monitoring tools track performance and usage, letting you make quick fixes before a minor bug becomes a full-blown crisis. </li> </ul> <h4>Adding AI to the Mix</h4> <ul> <li> <strong>Smart Build Pipelines</strong><br /> AI can identify workflow bottlenecks, re-routing tasks for faster completion. </li> <li> <strong>Adaptive Resource Allocation</strong><br /> Machine learning models predict computing power needs, so you don’t overspend on server capacity. </li> </ul>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-5"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 5. AI-Powered Tools You Can Actually Use </h3> <p> Want to start using AI in your projects? Here are some real, battle-tested platforms to consider. (We’ve linked their official sites so you can jump right in!) </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol> <li> <a href=\"https://github.com/features/copilot\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>GitHub Copilot</strong></a><br /> <ul> <li>Developed by GitHub and OpenAI.</li> <li>Suggests code snippets in real time, saving you from typing out repetitive logic over and over.</li> </ul> </li> <li> <a href=\"https://chat.openai.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>ChatGPT</strong></a><br /> <ul> <li>Perfect for brainstorming solutions, writing documentation, or generating quick prototypes.</li> <li>Acts like a “rubber duck” for debugging, offering fresh perspectives on problems.</li> </ul> </li> <li> <a href=\"https://aws.amazon.com/codewhisperer/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>AWS CodeWhisperer</strong></a><br /> <ul> <li>Amazon's AI coding companion integrating with popular IDEs.</li> <li>Helps you spot security issues and fill in boilerplate code quickly.</li> </ul> </li> <li> <a href=\"https://www.mabl.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Mabl</strong></a> or <a href=\"https://www.testim.io\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Testim</strong></a><br /> <ul> <li>Automated testing platforms that rely on machine learning.</li> <li>Adapt to UI changes over time, so you don’t waste hours updating tests after small design tweaks.</li> </ul> </li> <li> <a href=\"https://www.harness.io\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Harness.io</strong></a><br /> <ul> <li>Provides AI-driven continuous delivery and cost management.</li> <li>Quickly shows where you’re overspending on cloud resources, helping you optimize budgets.</li> </ul> </li> <li> <a href=\"https://www.tabnine.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Tabnine</strong></a><br /> <ul> <li>An AI assistant that predicts and completes your code.</li> <li>Works with multiple programming languages and popular IDEs to expedite coding tasks.</li> </ul> </li> </ol>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-2-6"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 6. Tying It All Together </h3> <h4> The Formula for Faster, Cheaper App Development </h4>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol> <li> <strong>Embrace React Native + Expo</strong><br /> Why build two separate apps when you can just build one? </li> <li> <strong>Leverage the MERN Stack</strong><br /> Keep your entire project in JavaScript for seamless collaboration and smoother AI integrations. </li> <li> <strong>Adopt DevOps</strong><br /> Automated pipelines mean fewer mistakes, quicker releases, and less human overhead. </li> <li> <strong>Inject AI at Every Step</strong><br /> AI tools handle repetitive tasks, make smart predictions, and monitor performance 24/7. </li> </ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> Conclusion </h3> <p> Building apps faster doesn’t mean cutting corners—and spending less doesn’t mean sacrificing quality. With AI-driven automation, modern frameworks, and DevOps best practices, you can deliver robust, stable apps at record speed without draining your budget. And each time you ship more efficiently, you gain a real competitive edge in the market. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<p> At <a href=\"https://github.com/features/copilot\" target=\"_blank\" rel=\"noopener noreferrer\">Devinity.AI </a>, we’ve perfected this blend of AI, React Native, Expo, MERN, and DevOps, helping clients launch apps that are faster, more affordable, and better-equipped to grow. If you’re ready to break free from tedious workflows and ballooning costs, let’s talk about how AI can transform your development process. Together, we can build something amazing—without breaking the bank. </p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 3,
+      "imgTop": "blog/items/blog-item-3-1.png",
+      "title": "How to Build and Launch a Cross-Platform App with Expo: A Start-to-Finish Guide for Entrepreneurs",
+      "subTitle": "#Sentry #Firebase Crashlytics #Amplitude #Mixpanel #Expo OTA Updates",
+      "content": [
+        {
+          "type": "p",
+          "data": "So, you’ve got a brilliant app idea that needs to work on both iOS and Android—but you’re not sure where to start. For entrepreneurs looking to minimize overhead and avoid juggling multiple development teams, cross-platform development can be a lifesaver. One of the most popular and beginner-friendly frameworks out there is Expo, which sits on top of React Native and simplifies the entire mobile app creation process."
+        },
+        {
+          "type": "p",
+          "data": "In this guide, we’ll walk you through everything you need to know—from setting up your development environment to publishing your app on the app stores. By the end, you’ll have a clearer understanding of how to get your product in front of users quickly (and without blowing your budget)."
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 1. Why Expo for Cross-Platform? </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol><li><strong>Why Expo for Cross-Platform?</strong><ol type=\"A\"><li><strong>One Codebase, Two Platforms</strong><br />Traditionally, building an app for both iOS and Android meant writing two separate codebases. Expo (and the underlying React Native framework) changes the game by letting you write your code once and have it run natively on both platforms. This not only slashes development costs but also speeds up your time to market—crucial for any entrepreneur eager to test an idea ASAP.</li><li><strong>Fewer Headaches, Quicker MVPs</strong><br />Expo takes care of a lot of the “boring stuff” behind the scenes, like handling updates, push notifications, and device permissions. If you’re building an <strong>MVP (Minimum Viable Product)</strong> to validate your business idea, Expo’s simplicity means you can focus on features, not fiddly technical tasks.</li><li><strong>Over-the-Air Updates</strong><br />One of Expo’s superpowers is the ability to <strong>push updates over the air (OTA)</strong>. That means you can deploy quick fixes or small new features without waiting for app store approvals—pure gold for fast-moving startups.</li></ol></li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 2. Getting Set Up: Think Minimal, Move Fast </h3> <p> You don’t need a massive team or fancy hardware to kick things off. Here’s what you do need: </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol> <li> <strong>Node.js & npm</strong> <ul> <li>This is your foundation for installing Expo and managing project dependencies.</li> <li> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noopener noreferrer\">Download Node.js</a> and follow the setup instructions.</li></ul></li><li><strong>Expo CLI or EAS CLI</strong><ul><li><strong>Expo CLI</strong> is the original command-line interface for building and running apps.</li><li><strong>EAS CLI</strong> (Expo Application Services) adds more flexibility for customized builds and easier app store submissions.</li><li>Install one (or both) via:</li><pre><code>npm install --global expo-cli</code></pre><pre><code>npm install --global eas-cli</code></pre></ul></li><li><strong>Expo Account</strong><ul> <li> Sign up for a free account at <a href=\"https://expo.dev\" target=\"_blank\" rel=\"noopener noreferrer\">expo.dev</a>. This is your gateway to publishing and hosting your projects.</li></ul></li></ol> <p>That’s it! You’re already ahead of most entrepreneurs who get stuck at the “where do I start?” phase.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>3. Designing and Building Your App: Focus on What Matters </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol type=\"A\"> <li> <strong>Keep It Simple</strong><br /> When you’re first building a product, chances are you’re validating an idea. Don’t overload your app with extras you’re not sure people need. <strong>A clean UI</strong> and a <strong>clear user journey</strong> usually matter more than having ten bells and whistles. </li> <li> <strong>Use Expo’s Built-In Features</strong><br /> Expo gives you ready-to-use modules for things like: <ul> <li>Push notifications</li> <li>Camera access</li> <li>Location services</li> <li>Accelerometer, gyroscope, and more</li> </ul> Think of these as shortcuts that save you from reinventing the wheel—perfect for lean development.</li> <li> <strong>Test Early, Test Often</strong><br /> <ul> <li> <strong>Expo Go App</strong>: Install <a href=\"https://expo.dev/client\" target=\"_blank\" rel=\"noopener noreferrer\">Expo Go</a> on your phone to instantly preview your app’s latest version. </li> <li> <strong>Real Device Testing</strong>: If possible, try your app on a range of devices. Different screen sizes, memory limits, and OS versions can all affect performance. </li> </ul> </li> </ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>4. Preparing for Launch: From MVP to Polished Product </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p> Let’s say you’ve nailed down your initial feature set and tested it. Before you publish, invest some time in <strong>final polish</strong>: </p> <ol> <li> <strong>Set Your App Name & Icons</strong> <ul> <li>Update your <code>app.json</code> or <code>app.config.js</code> with a clear, descriptive name.</li> <li>Make sure you’ve got professional-looking icons and a splash screen—branding is your first impression.</li> </ul> </li><li> <strong>Check Performance</strong> <ul> <li>Uninstall any unnecessary libraries.</li> <li>Compress large images or videos.</li> <li>A sleek, speedy app = happier users (and fewer bad reviews).</li> </ul> </li> <li> <strong>Manage Versions</strong> <ul> <li>iOS and Android both require version numbers for app store submissions.</li> <li>In <code>app.json</code> or <code>eas.json</code>, set the correct version to keep your release process smooth.</li> </ul></li> </ol>"
+        },
+        {
+          "type": "innet",
+          "data": "<h3> 5. Building Your App: Classic vs. EAS Workflows  </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol type=\"A\"> <li> <strong>Classic Expo Builds</strong><br /> If you need something straightforward, you can do: <pre><code>expo build:android</code></pre> <pre><code>expo build:ios</code></pre> <p> Expo will churn away in the cloud, then give you links to download your <strong>APK (Android)</strong> or <strong>IPA (iOS)</strong> file. Easy and quick—ideal if you don’t need heavy customization. </p> </li> <li> <strong>EAS (Expo Application Services)</strong><br /> For more customization, faster builds, or if you plan to tweak native code later: <pre><code>eas build --platform android</code></pre> <pre><code>eas build --platform ios</code></pre> <p> You’ll get cloud-based builds, plus advanced features like custom build profiles and integrated app store submissions. </p> </li> </ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 6. Submitting to App Stores: Your Big Moment </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol type=\"A\"> <li> <strong>iOS on the App Store</strong> <ol> <li> <strong>Apple Developer Account</strong><br /> You’ll need a paid Apple Developer account. </li> <li> <strong>Upload Your IPA</strong><br /> You can use Apple’s Transporter app or run: <pre><code>eas submit --platform ios</code></pre> </li> <li> <strong>Complete Metadata</strong><br /> Fill in your app name, description, screenshots, and pricing. Then wait for Apple’s review. (This can take a few days, so plan accordingly.) </li> </ol> </li> <li> <strong>Android on Google Play</strong> <ol> <li> <strong>Google Play Console</strong><br /> Sign up for a Google Play Developer account. </li> <li> <strong>Upload Your AAB</strong><br /> You can do it manually or with: <pre><code>eas submit --platform android</code></pre> </li> <li> <strong>Store Listing & Release Tracks</strong><br /> Add your short description, screenshots, set a release track (internal, beta, or production), then roll it out to users. </li> </ol> </li> </ol>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-3-2"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 7. Over-the-Air (OTA) Updates: Iterate at Lightning Speed </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p> Once your app is live, you can push minor updates—like bug fixes or small feature tweaks—directly to users without requiring another full app store review. </p> <ul> <li> <strong>Classic Method</strong> <pre><code>expo publish</code></pre> </li> <li> <strong>EAS Update</strong> <pre><code>eas update --branch production</code></pre> </li> </ul> <p> Your users get the latest code the next time they open the app. This is a lifesaver for quick patches. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 8. Using AI to Supercharge Your Deployment and Growth </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p> Even if you’re a non-technical founder, you can benefit from <strong>AI-driven tools</strong> that streamline your workflow: </p> <ul> <li> <a href=\"https://github.com/features/copilot\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>GitHub Copilot</strong></a>: Assists in writing boilerplate code, saving developer hours. </li> <li> <a href=\"https://chat.openai.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>ChatGPT</strong></a>: Drafts copy for app store listings, marketing materials, or even helps debug code. </li> <li> <a href=\"https://www.mabl.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Mabl</strong></a> or <a href=\"https://www.testim.io\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Testim</strong></a>: Automated testing powered by machine learning adapts to UI changes, so you don’t have to rewrite tests constantly. </li> </ul> <p> These tools reduce manual tasks and let you focus on product strategy and user engagement—key areas for entrepreneurial success. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 9. After Launch: Keep an Eye on Quality and Feedback </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol type=\"A\"> <li> <strong>Monitor Crashes and Performance</strong><br /> Tools like <strong>Sentry</strong> or <strong>Firebase Crashlytics</strong> can show you real-time crash reports. Promptly addressing issues builds user trust and retention. </li> <li> <strong>Collect User Feedback</strong><br /> Consider integrating <strong>in-app feedback</strong> features or using analytics tools like <strong>Amplitude</strong> or <strong>Mixpanel</strong> to see what users actually do inside your app. This data is invaluable for planning future updates. </li> <li> <strong>Keep Shipping</strong><br /> Whether it’s a tweak to your onboarding flow or a new core feature, consistent improvements keep users engaged. The quick feedback loop you get through Expo’s OTA updates makes iteration fast and effective. </li> </ol> <h3>Conclusion</h3> <p> Developing a cross-platform app can feel daunting if you’re juggling budgets, timelines, and market pressures—but Expo makes the journey a whole lot smoother. By focusing on a single codebase, leveraging built-in modules, and deploying over-the-air updates, you’ll save money, reduce headaches, and get to market faster. </p> <p> At <a href=\"https://devinity.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Devinity.AI</strong></a>, we specialize in helping entrepreneurs turn app ideas into profitable realities. Whether you need hands-on development support, AI-powered testing, or just guidance through the deployment process, our team has the expertise to keep your project on track. So go on—take your app from concept to launch without missing a beat, and start wowing users across iOS and Android today. </p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 4,
+      "imgTop": "blog/items/blog-item-4-1.png",
+      "title": "Best AI-Powered App Ideas for Spring 2025",
+      "subTitle": "#AI #MVP #UI/UX #ML",
+      "content": [
+        {
+          "type": "inner",
+          "data": "<p> Spring 2025 is shaping up to be a landmark season for AI-driven innovation. From hyper-personalized experiences to next-level automation, there’s no shortage of opportunities for tech-savvy entrepreneurs. Whether you’re an aspiring founder or an established business looking to expand, here are some of the most promising AI-powered app ideas to consider building this spring. </p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 1. Personalized Health and Wellness Coaches </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4> <p> Health tech is exploding, with people wanting <strong>tailored solutions</strong> rather than generic advice. AI can analyze real-time data—from wearable sensors, dietary logs, and more—to provide hyper-personalized workout routines, meditation programs, and nutrition tips. </p>  <h3>Potential Features</h3> <ul> <li> <strong>Dynamic Insights:</strong> Analyzing heart rate, steps, sleep patterns, and stress levels to give on-the-spot recommendations. </li> <li> <strong>Behavioral Nudges:</strong> Timely reminders or encouragement when it detects a dip in activity or mood. </li> <li> <strong>Integration with IoT Devices:</strong> Sync with wearables (think smartwatches or even smart scales) for holistic tracking. </li></ul> <h3>Tech Stack & Development Tips</h3> <ul> <li> <strong>Front End:</strong> Use React Native and Expo for a smooth cross-platform experience (iOS + Android). </li> <li> <strong>AI Core:</strong> Integrate popular machine learning libraries (<strong>TensorFlow</strong>, <strong>PyTorch</strong>) for predictive models. </li> <li> <strong>DevOps:</strong> Automate your builds and tests with CI/CD pipelines for faster release cycles. </li> </ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 2. AI-Driven Language Tutors </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4> <p> With global travel and remote work booming, language learning is in high demand. AI’s natural language processing (NLP) advancements can offer real-time feedback on pronunciation, grammar, and even cultural nuances. </p> <h4>Potential Features</h4> <ul> <li> <strong>Conversational Practice:</strong> Simulated dialogues with AI bots that adapt to the user’s proficiency level. </li> <li> <strong>Voice Recognition:</strong> Immediate feedback on accent and pronunciation. </li> <li> <strong>Adaptive Curriculum:</strong> Exercises that get tougher as users progress, ensuring consistent skill development. </li> </ul> <h4>Tech Stack & Development Tips</h4> <ul> <li> <strong>NLP Engine:</strong> Consider GPT-style models or specialized language-focused APIs. </li> <li> <strong>Cross-Platform Mobile:</strong> Deploy on iOS and Android with a single codebase for broader reach. </li> <li> <strong>Gamification:</strong> Keep users motivated with daily streaks, badges, and real-time leaderboards. </li> </ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 3. AI-Powered Recruiting Platforms </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4> <p> Companies are scrambling to find the right talent, while job seekers want roles that match their skills and culture. An AI-driven recruiting platform can quickly analyze resumes, match candidate skills to job descriptions, and even predict cultural fit. </p> <h4>Potential Features</h4> <ul> <li> <strong>Smart Candidate Matching:</strong> NLP to parse resumes and job listings, ranking candidates by compatibility. </li> <li> <strong>Automated Screening:</strong> AI chatbots conduct initial interviews to filter out top applicants. </li> <li> <strong>Bias Detection:</strong> Machine learning models that flag unconscious biases in job descriptions or screening questions. </li> </ul> <h4>Tech Stack & Development Tips</h4> <ul> <li> <strong>Back End:</strong> MERN stack (MongoDB, Express, React, Node.js) ensures consistency across your app. </li> <li> <strong>AI Modules:</strong> Tools like Hugging Face for NLP tasks or scikit-learn for job-matching algorithms. </li> <li> <strong>Cloud Deployment:</strong> Leverage AWS or Azure for scalability and real-time analytics. </li> </ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 4. On-Demand Mental Health & Therapy Apps </h3>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-4-2"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4> <p> Mental health has become a top priority, especially in a hectic, post-pandemic world. AI-based mental health apps offer immediate support, personalized to each user’s emotional state. </p>  <h4>Potential Features</h4> <ul> <li> <strong>Mood Tracking:</strong> Daily check-ins that gather data on stress levels, sleep, and other emotional signals. </li> <li> <strong>AI Chatbot Therapists:</strong> Provide initial coping strategies or guided mindfulness sessions. </li> <li> <strong>Crisis Alerts:</strong> If certain red flags appear (e.g., drastically low mood, alarming language), alert professionals or trusted contacts. </li></ul> <h4>Tech Stack & Development Tips</h4> <ul> <li> <strong>Privacy & Compliance:</strong> Make sure you comply with data protection regulations (HIPAA, GDPR). </li> <li> <strong>Sentiment Analysis:</strong> Implement NLP to interpret user inputs and offer personalized strategies. </li> <li> <strong>Push Notifications:</strong> Real-time reminders for journaling, breathing exercises, or therapy sessions via Expo’s built-in notifications system. </li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 5. Hyper-Personalized E-Learning Platforms </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4><p>Online education is evolving rapidly, but static courses don’t cut it anymore. AI can shape lessons around individual learning styles—visual, kinesthetic, auditory—or even identify knowledge gaps in real time.</p> <h4>Potential Features</h4> <ul> <li><strong>Adaptive Learning Paths:</strong> Tailored quizzes that identify strengths and weaknesses, adjusting lesson difficulty on the fly.</li> <li><strong>Virtual Tutors:</strong> AI bots that answer course questions 24/7, freeing up human instructors.</li> <li><strong>Skill Certification:</strong> Automated tests validate mastery, issuing certificates that can be shared on social platforms like LinkedIn.</li> </ul> <h4>Tech Stack & Development Tips</h4> <ul> <li><strong>UI/UX Focus:</strong> Offer a sleek interface that keeps learners engaged.</li> <li><strong>DevOps for Scale:</strong> High user volume requires robust CI/CD and containerization with Docker or Kubernetes.</li> <li><strong>Multi-Platform Presence:</strong> Let users access courses via desktop, web, and mobile apps for maximum flexibility.</li> </ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>6. Smart Personal Finance Advisors  </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4><p>From managing cryptocurrency portfolios to routine budgeting, users crave real-time insights that go beyond standard banking apps. AI can comb through transactional data to pinpoint areas for savings or investment opportunities.</p><h4>Potential Features</h4><ul><li><strong>Spending Analysis:</strong> Categorize expenses automatically, highlighting potential cost-cutting measures.</li><li><strong>Savings Goals & Forecasting:</strong> Predict how quickly users can hit savings targets based on historical data.</li><li><strong>Investment Recommendations:</strong> Suggest diversified portfolios or track crypto markets with real-time analytics.</li></ul><h4>Tech Stack & Development Tips</h4><ul><li><strong>Data Security:</strong> Implement robust encryption and follow financial compliance standards like PCI DSS.</li><li><strong>Machine Learning Models:</strong> Predict user cash flow and identify fraudulent transactions using anomaly detection.</li><li><strong>Cross-Platform Strategy:</strong> Build once with React Native or Flutter to cover both major mobile platforms efficiently.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 7. Smart Travel & Itinerary Planners </h3>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-4-3"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Why It’s Hot</h4><p>Travel is roaring back, and people want quick, hassle-free planning experiences. AI can do the heavy lifting—suggesting flights, hotels, tours, and even local events based on user preferences and budgets.</p><h4>Potential Features</h4><ul><li><strong>Personalized Recommendations:</strong> Learn user preferences (beach vs. mountain, budget vs. luxury) and generate entire trip plans.</li><li><strong>Dynamic Pricing Alerts:</strong> Monitor flight and hotel prices in real time, sending push alerts for sudden deals.</li><li><strong>Local Insights:</strong> Integrate location-based services to highlight hidden gems, dining spots, or cultural events.</li></ul><h4>Tech Stack & Development Tips</h4><ul><li><strong>Data Integration:</strong> APIs from travel providers, flight trackers, and hotel services for up-to-date information.</li><li><strong>AI Recommender Systems:</strong> Collaborative filtering or content-based filtering to tailor suggestions to each user.</li><li><strong>Offline Capabilities:</strong> Cache important travel details so users can access them without internet in remote or international locales.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>Key Considerations for 2025 AI Apps  </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol> <li><strong>Ethical & Responsible AI:</strong> With AI adoption at an all-time high, new regulations may come into play. Prioritize transparency, data security, and fairness in your app’s algorithms.</li> <li><strong>Cross-Platform Development:</strong> Speed to market is critical. Frameworks like <em>React Native</em> and <em>Expo</em> let you launch on iOS and Android simultaneously—great for testing and scaling fast.</li> <li><strong>Continuous Deployment & Monitoring:</strong> Combine DevOps best practices with AI-based analytics to catch issues before they affect user experience, ensuring smoother rollouts and stable performance.</li> </ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Where We Come In</h4><p>Building an AI-powered app can be both exciting and intimidating. At <a href=\"https://devinity.ai\" target=\"_blank\" rel=\"noopener noreferrer\">Devinity.AI</a>, we specialize in helping entrepreneurs and businesses harness the full power of AI—whether you’re prototyping an MVP or scaling an existing solution. From designing user-centric interfaces to choosing the right machine learning models, our team has you covered every step of the way.</p><h4>Final Thoughts</h4><p>Spring 2025 is brimming with opportunities for AI-driven innovation. The key is identifying a real-world problem and using AI to solve it in a way that feels natural, seamless, and—most importantly—beneficial to end users. Whether you’re looking to revolutionize mental health, take e-learning to new heights, or simplify personal finance, now is the perfect time to dive into the AI revolution.</p><p><strong>Ready to turn your big idea into a game-changing app?</strong> Get in touch with our team at <a href=\"https://devinity.ai\" target=\"_blank\" rel=\"noopener noreferrer\">Devinity.AI</a> and let’s build something extraordinary together.</p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 5,
+      "imgTop": "blog/items/blog-item-5-1.png",
+      "title": "Quickly Integrating AdminJS Panels into Progressive Web Apps",
+      "subTitle": "#AdminJS #PWA",
+      "content": [
+        {
+          "type": "inner",
+          "data": "<p>If you need a fast way to manage backend data without wrestling with clunky, homegrown admin interfaces, <strong>AdminJS</strong> (formerly known as AdminBro) is a stellar solution. It allows you to spin up a fully functional admin panel with minimal configuration. Combine that with the flexibility of <strong>Progressive Web Apps (PWAs)</strong>, and you’ve got a modern, accessible interface that can be installed on virtually any device—desktop or mobile—while still reaping the benefits of a web-based solution.</p><p>Below, we’ll explore how to get started with AdminJS and integrate it into a PWA so that your team can manage data on the go.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>1. What Are Progressive Web Apps, Anyway?</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p><strong>Progressive Web Apps</strong> are essentially web applications enhanced with modern web capabilities, giving them the look and feel of native mobile apps. Key highlights include:</p><ul><li><strong>Installability:</strong> Users can “install” a PWA onto their home screen (on both mobile and desktop) for easy access.</li><li><strong>Offline Support:</strong> Thanks to Service Workers, PWAs can cache assets and content, so users can view previously visited pages even offline.</li><li><strong>Responsive Design:</strong> PWAs adapt seamlessly to different screen sizes and device types, making them versatile and user-friendly.</li></ul><p>Unlike native apps, PWAs are hosted on the web, so users don’t have to search an app store to download them. This lowers friction for your audience—and it also simplifies the development process for you since you can maintain one codebase that works everywhere.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>2. Why Use AdminJS for Your Admin Panel?</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>When it comes to quickly setting up admin dashboards, <strong>AdminJS</strong> stands out for several reasons:</p><ul><li><strong>Auto-Generated UI</strong> It automatically generates views (list, edit, create, and delete) based on your database models—no more building everything from scratch.</li><li><strong>Customizable</strong> Need to add custom validations, actions, or entire pages? AdminJS offers an easy way to override default functionality with your own custom code.</li><li><strong>Database & Framework Agnostic</strong> Works with popular ORMs (<strong>Mongoose, Sequelize, TypeORM, Prisma</strong>) and frameworks (<strong>Express, NestJS</strong>, and more).</li><li><strong>Modern Tech Stack</strong> Built with <strong>Node.js</strong> and <strong>React</strong>, so it’s maintainable and flexible.</li></ul><p>With AdminJS, you can focus on your core features while still giving team members a polished, professional way to manage data.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>3. Setting Up Your Project</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>Here’s a quick overview of what you’ll need to integrate <strong>AdminJS</strong> into a <strong>PWA</strong>:</p><ol><li><strong>Node.js &amp; npm:</strong> You’ll be running a Node server to handle admin routes (as well as your main API).</li><li><strong>Frontend Framework:</strong> It could be React, Vue, or Angular for your PWA front end. (Or even a classic HTML/JS approach.)</li><li><strong>Service Worker Setup:</strong> To enable offline capabilities, push notifications, and install prompts, you’ll configure a Service Worker in your front end.</li><li><strong>AdminJS:</strong> The star of the show for your admin dashboard.</li></ol><h4>A Typical Directory Structure</h4><pre><code>my-app\n├── admin\n│   └── adminjs.config.js\n├── client\n│   ├── public\n│   │   └── service_worker.js\n│   └── src\n│       └── (your PWA's React/Vue/Angular code)\n├── server\n│   └── app.js (or index.js)\n└── package.json\n</code></pre><p><strong>Note:</strong> Your structure may vary, but the idea is to keep a clean separation between front-end PWA files and the server-side logic for AdminJS.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>4. Installing and Configuring AdminJS</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>Let’s assume you’re using <strong>Express.js</strong> as your server framework for simplicity. Start by installing the necessary packages:</p><pre><code>npm install adminjs @adminjs/express @adminjs/sequelize sequelize</code></pre><p>(Adjust the ORM package to whichever one you’re using.)</p><h4>Minimal Setup</h4><p>Create a file like <code>adminjs.config.js</code>:</p><pre><code>const AdminJS = require('adminjs');\nconst AdminJSExpress = require('@adminjs/express');\nconst AdminJSSequelize = require('@adminjs/sequelize');\n\n// Register the adapter for your ORM\nAdminJS.registerAdapter(AdminJSSequelize);\n\n// Import your database models\nconst { MyModel } = require('./models');\n\nconst adminJs = new AdminJS({\n  resources: [ MyModel ],\n  rootPath: '/admin',\n});\n\nmodule.exports = adminJs;</code></pre><p>Then, integrate it into your Express app (in <code>app.js</code> or <code>server.js</code>):</p><pre><code>const express = require('express');\nconst adminJs = require('./admin/adminjs.config');\nconst AdminJSExpress = require('@adminjs/express');\n\nconst app = express();\n\nconst adminRouter = AdminJSExpress.buildRouter(adminJs);\napp.use(adminJs.options.rootPath, adminRouter);\n\n// Optionally add your other routes\n// app.use('/api', ...);\n\nmodule.exports = app;</code></pre><p>Restart your server, and you’ll have a default admin panel at <a href=\"http://localhost:3000/admin\">http://localhost:3000/admin</a>.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>5. Making It a PWA: Key Steps</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>While AdminJS handles the admin panel, you also want your client-side app to function as a PWA. Here’s how:</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>1. Manifest.json</h4><ul><li>Place a <code>manifest.json</code> file in your client’s public folder. It includes icons, the app name, and theme colors. Example:</li></ul><pre><code>{\n  \"short_name\": \"MyPWA\",\n  \"name\": \"My Progressive Web App\",\n  \"start_url\": \".\",\n  \"display\": \"standalone\",\n  \"background_color\": \"#ffffff\",\n  \"icons\": [\n    {\n      \"src\": \"/icons/icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\"\n    },\n    {\n      \"src\": \"/icons/icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\"\n    }\n  ]\n}</code></pre><ul><li>Link it in your <code>index.html</code>:</li></ul><pre><code>&lt;link rel=\"manifest\" href=\"/manifest.json\" /&gt;</code></pre>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>2. Service Worker</h4><ul><li>Generate or write a <code>service-worker.js</code> file in the public folder (or use frameworks like Create React App, which can automate this).</li><li>This script manages caching and offline content. A minimal version might look like:</li></ul><pre><code>self.addEventListener('install', (event) => {\n  event.waitUntil(\n    caches.open('v1').then((cache) => {\n      return cache.addAll([\n        '/',\n        '/index.html',\n        // Add other static assets you want to cache\n      ])\n    })\n  )\n})\n\nself.addEventListener('fetch', (event) => {\n  event.respondWith(\n    caches.match(event.request).then((response) => {\n      return response || fetch(event.request)\n    })\n  )\n})</code></pre>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>3. HTTPS & Deployment</h4><ul><li>PWAs require HTTPS for service workers to function. Make sure you host your production app on a secure domain.</li><li>Tools like <strong>Vercel</strong>, <strong>Netlify</strong>, or <strong>AWS Amplify</strong> can deploy both your static frontend and <strong>Node.js</strong> backend.</li></ul><p><strong>Pro Tip:</strong> While your admin panel might not need to be a PWA itself, you can still integrate them seamlessly by having your user-facing PWA share the same domain or subdomain. The admin panel remains accessible at <code>/admin</code> for authorized users.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>6. Securing Your Admin Panel</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>Your admin interface exposes powerful data-manipulation tools, so security is paramount:</p><ul><li><strong>Authentication</strong><ul><li>AdminJS supports session-based or token-based authentication. Don’t launch without at least password protection!</li></ul></li><li><strong>Authorization</strong><ul><li>Restrict access based on user roles. Only those with the right role(s) can view or edit certain resources.</li></ul></li><li><strong>HTTPS</strong><ul><li>Again, always use HTTPS in production to encrypt traffic and safeguard credentials.</li></ul></li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>7. Extending and Customizing</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Custom Actions and Dashboard</h4><ul><li><strong>Custom Dashboards:</strong> AdminJS lets you design a custom landing page for your admin panel (charts, stats, quick links to major features).</li><li><strong>Custom Actions:</strong> Need to bulk-update records or run a server-side script? Define custom actions that appear in your admin interface.</li></ul><h4>Multi-Platform UI</h4><ul><li>Even if your main app is a PWA, your admin dashboard remains a standard web app. You can, however, apply responsive design principles (via CSS frameworks like <a href=\"https://tailwindcss.com\" target=\"_blank\" rel=\"noopener noreferrer\">Tailwind CSS</a> or <a href=\"https://getbootstrap.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bootstrap</a>) to ensure it looks good on tablets or small screens.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>8. Testing and Deployment</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ul><li><strong>Local Testing</strong><ul><li>Spin up your Node server locally (e.g., <code>npm run dev</code>) and preview your PWA on localhost using Chrome.</li><li>Test the admin panel at <a href=\"http://localhost:3000/admin\" target=\"_blank\" rel=\"noopener noreferrer\">http://localhost:3000/admin</a> (or whichever port you use).</li></ul></li><li><strong>Deployment</strong><ul><li>Deploy your Node server (with AdminJS) to a service like <a href=\"https://www.heroku.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Heroku</a>, <a href=\"https://aws.amazon.com/\" target=\"_blank\" rel=\"noopener noreferrer\">AWS</a>, or <a href=\"https://www.digitalocean.com/\" target=\"_blank\" rel=\"noopener noreferrer\">DigitalOcean</a>.</li><li>Deploy your static front end (PWA) via <a href=\"https://vercel.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Vercel</a>, <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Netlify</a>, or <a href=\"https://aws.amazon.com/amplify/\" target=\"_blank\" rel=\"noopener noreferrer\">AWS Amplify</a>. Or serve it from the same Node instance.</li></ul></li></ul><p><strong>Pro Tip:</strong> Use a single CI/CD pipeline (GitHub Actions, GitLab CI, or CircleCI) to test both the admin panel and the front-end PWA. Automated tests help ensure new changes don’t break the app.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>9. Final Thoughts</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>Integrating <strong>AdminJS</strong> into a <strong>Progressive Web App</strong> can significantly streamline how you manage and present data in real time. Your customers get a slick, installable app experience, while your team benefits from a clean, intuitive back-office panel—no separate codebases or separate dev teams required.</p><h4>Where We Come In</h4><p>At <a href=\"https://devinity.ai\" target=\"_blank\" rel=\"noopener noreferrer\">Devinity.AI</a>, we specialize in designing robust web solutions—combining the ease of frameworks like AdminJS with the reach and flexibility of PWAs. Whether you’re looking to prototype a new venture or revamp an existing platform, our experts can help you integrate these tools quickly and securely.</p><p><strong>Ready to take your operations to the next level?</strong> Explore AdminJS, embrace PWAs, and deliver a versatile, modern app that your users (and your team) will love. Let’s build something extraordinary—together.</p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 6,
+      "imgTop": "blog/items/blog-item-6-1.png",
+      "title": "Evaluating Eleven Labs’ AI TTS: Balancing Cost, Latency, and Quality",
+      "subTitle": "#TTS #Eleven Labs #AWS",
+      "content": [
+        {
+          "type": "inner",
+          "data": "<p>Text-to-speech (<strong>TTS</strong>) has become an integral part of modern applications, from voice-enabled assistants and e-learning platforms to automated customer support systems. While many solutions exist, <strong>Eleven Labs</strong> has gained attention for its <strong>high-quality, lifelike AI voices</strong>. However, in one of our recent projects, we discovered that top-tier quality alone doesn’t always justify a TTS platform—especially when <strong>latency</strong> and <strong>cost</strong> come into play. Ultimately, our client chose to switch from Eleven Labs to <strong>Amazon Polly</strong>, despite its more robotic sound, in order to meet their speed and budget requirements. Here’s what happened.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>1. Why Eleven Labs Caught Our Attention</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>A. Superb Voice Quality</h4><p>Eleven Labs’ TTS models produce notably <strong>natural-sounding</strong> speech, capable of nuanced prosody and expressive intonation. When we tested it, the voices stood out for their human-like warmth and clarity, easily surpassing many other TTS engines in realism.</p><h4>B. Developer-Friendly Features</h4><ul><li><strong>Varied Voice Profiles:</strong> Multiple built-in voices, each with a distinct personality and style.</li><li><strong>Fine-Grained Control:</strong> Some advanced options let you tweak pitch, speed, and emotional tone, allowing for more dynamic outputs.</li><li><strong>Easy Integration:</strong> API endpoints and documentation that make it straightforward for dev teams to embed TTS into their workflows.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>2. The Latency Problem</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>Despite the exciting voice quality, <strong>latency emerged as a major bottleneck</strong>. Even with <strong>websockets</strong>&mdash;a commonly suggested method for streaming or chunked audio&mdash;we observed:</p><ol><li><strong>Delayed Audio Start:</strong> Users had to wait noticeable amounts of time (several seconds or more) before hearing any playback.</li><li><strong>Inconsistent Streaming:</strong> In some configurations, partial audio arrived quickly, but significant lag persisted, undermining any real-time or near real-time use case.</li><li><strong>Scaling Issues:</strong> As we ramped up requests (think hundreds of TTS calls per hour), latency spikes grew unpredictable, further complicating user experience.</li></ol><p>For use cases demanding quick responses&mdash;like interactive voice-based applications&mdash;this delay was problematic.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>3. Cost Considerations</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>While Eleven Labs doesn’t hide its pricing, we discovered that <strong>projected monthly costs</strong> could skyrocket with extensive usage. Particularly for:</p><ul><li><strong>High-Volume Calls:</strong> Continuous generation of new voice prompts (e.g., dynamic content in e-learning) quickly amassed large bills.</li><li><strong>Peak Usage:</strong> If an application needed short bursts of heavy TTS processing, cost ramped up unexpectedly, especially if concurrency triggered extra fees or higher usage tiers.</li></ul><p>When we laid out total expenses over a typical quarter, <strong>the budget strain</strong> became apparent, especially compared to more established TTS providers like Amazon Polly or Google Cloud TTS.</p>"
+        },
+        {
+          "type": "img",
+          "width": 100,
+          "data": "blog/items/blog-item-6-2"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>4. The Hard Decision: Switching to Amazon Polly</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>A. Why Polly?</h3><ol><li><strong>Speed and Lower Latency:</strong> Amazon Polly’s infrastructure has been battle-tested for real-time applications, often with minimal delays before audio playback starts.</li><li><strong>Cost-Effectiveness:</strong> For large-scale or long-running projects, Polly’s pricing tiers generally remain more predictable and lower than Eleven Labs at high volumes.</li><li><strong>Wider Cloud Integration:</strong> If your stack already uses AWS, hooking into Polly fits smoothly with existing services, from AWS Lambda triggers to S3 hosting for cached TTS audio.</li></ol><h3>B. The Trade-Off: Voice Quality</h3><p>Polly’s voice quality—while improved over the years—still feels <strong>less natural</strong> or expressive than Eleven Labs. The client acknowledged that the generated speech had a slightly more robotic cadence. However, they deemed the <strong>trade-off acceptable</strong> when factoring in latency and budget constraints.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>5. Project Takeaways</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol><li><strong>Voice Quality Isn’t Everything:</strong> While Eleven Labs excels in realism, real-world projects juggle multiple variables—primarily <strong>speed</strong> and <strong>cost</strong>.</li><li><strong>Latency Testing Is Crucial:</strong> Always simulate real workloads and concurrency during TTS proofs-of-concept. A short demo can mask hidden performance pitfalls.</li><li><strong>Budget Forecasting:</strong> Calculate potential usage peaks to gauge worst-case monthly fees, not just average usage.</li><li><strong>Know Your Use Case:</strong> If your application is an audio drama or an audiobook platform where users can tolerate small delays for high-quality narration, Eleven Labs might remain the better choice. But for real-time or rapidly updated content, any latency can be too much.</li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>6. Need Help Integrating TTS?</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>If you’re exploring TTS solutions or planning to build an app centered around voice technology, <strong>we can help</strong>. Our team has worked extensively with services like Eleven Labs, Amazon Polly, and other TTS platforms, and can guide you in selecting and integrating the right solution for your use case—whether it’s striking the perfect balance between <strong>cost, latency, and quality</strong> or simply ensuring your app’s voice runs smoothly under high loads.</p><p><strong>Ready to streamline your TTS integration?</strong> Get in touch, and let’s bring your voice-driven applications to life—without breaking the bank.</p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    },
+    {
+      "id": 7,
+      "imgTop": "blog/items/blog-item-7-1.png",
+      "title": "Unlocking Faster Reasoning with o1-mini: A Look at OpenAI’s Small but Mighty Model",
+      "subTitle": "#TTS #Eleven Labs #AWS",
+      "content": [
+        {
+          "type": "inner",
+          "data": "<p>As the AI landscape continues to evolve, developers and businesses seek the perfect balance of <strong>speed</strong>, <strong>cost-efficiency</strong>, and <strong>capability</strong>. Enter <strong>o1-mini</strong>, OpenAI’s small reasoning model that boasts lightning-fast processing especially when it comes to coding and math without compromising on quality. Below, we’ll explore what o1-mini brings to the table, its pricing structure, and how it compares to other fine-tuning options in the market.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3> 1. Why Choose o1-mini? </h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>A. Faster Reasoning for Math and Code</h3><p>While the larger <strong>o1</strong> model excels at in-depth reasoning, o1-mini targets scenarios where you need <strong>quicker responses</strong>. If your use case leans heavily on <strong>coding tasks</strong> like debugging, generating snippets, or reviewing scripts or math-heavy workflows (from problem-solving to formula generation), o1-mini’s optimization can make a noticeable difference.</p><h3>B. Cost-Effective Without Sacrificing Quality</h3><p>o1-mini offers a cheaper entry point than many high-end LLMs (Large Language Models). Despite a smaller size, it strikes a balance of speed and reasoning power, making it ideal for startups or teams mindful of budget constraints.</p><h3>C. Fits Seamlessly into Existing Workflows</h3><p>With <strong>structured output</strong> support (inherited from the broader o1 family) and the ability to integrate tools, o1-mini slots easily into CI/CD pipelines, coding assistants, or other automated processes requiring real-time feedback.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>2. o1-mini Pricing: At a Glance</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<table><thead><tr><th>Model</th><th>Input Tokens</th><th>Cached Input Tokens*</th><th>Output Tokens</th></tr></thead><tbody><tr><td>o1-mini</td><td>$3.00 / 1M</td><td>$1.50 / 1M</td><td>$12.00 / 1M</td></tr><tr><td>o1-mini-2024-09-12</td><td>$3.00 / 1M</td><td>$1.50 / 1M</td><td>$12.00 / 1M</td></tr></tbody></table><h4>Key Points</h4><ul><li><strong>50% Discount on Cached Prompts:</strong> Repeated text within your requests is billed at half the normal input token rate.</li><li><strong>Output Token Costs:</strong> At $12.00 per 1M tokens, watch your output length if you want to keep a tight rein on expenses.</li><li><strong>Internal Reasoning Tokens:</strong> Output tokens include the internal “chain-of-thought” the model generates (though not visible in the final response), influencing how quickly your costs can add up.</li></ul><h4>Ideal Use Cases</h4><ol><li><strong>Frequent Code Generation:</strong> From automated code reviews to snippet generation, where speed is crucial.</li><li><strong>Quick Math Evaluations:</strong> Complex calculations or formula parsing that don’t require the context window of a larger model.</li><li><strong>Short-Form QA Systems:</strong> Chatbots or interactive tools where response speed trumps advanced, lengthy reasoning.</li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>3. Fine-Tuning Your Model: Why and How</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>While o1-mini offers robust out-of-the-box capabilities, sometimes you need a custom flair—say, domain-specific jargon or a unique workflow. This is where <strong>fine-tuning</strong> comes in, allowing you to tailor any of OpenAI’s base models to your own data. You only pay for the tokens used during training and subsequent inference on that custom model.</p><h4>A. Fine-Tuning Costs Across Models</h4><table><thead><tr><th>Model</th><th>Input Tokens</th><th>Batch / Cached Input Tokens</th><th>Output Tokens</th><th>Training Tokens</th></tr></thead><tbody><tr><td>gpt-4o-2024-08-06</td><td>$3.750 / 1M</td><td>$1.875 / 1M</td><td>$15.000 / 1M</td><td>$25.000 / 1M</td></tr><tr><td>gpt-4o-mini-2024-07-18</td><td>$0.300 / 1M</td><td>$0.150 / 1M</td><td>$1.200 / 1M</td><td>$3.000 / 1M</td></tr><tr><td>gpt-3.5-turbo</td><td>$3.000 / 1M</td><td>$1.500 / 1M</td><td>$6.000 / 1M</td><td>$8.000 / 1M</td></tr><tr><td>davinci-002</td><td>$12.000 / 1M</td><td>$6.000 / 1M</td><td>$12.000 / 1M</td><td>$6.000 / 1M</td></tr><tr><td>babbage-002</td><td>$1.600 / 1M</td><td>$0.800 / 1M</td><td>$1.600 / 1M</td><td>$0.400 / 1M</td></tr></tbody></table>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Important Notes</h4><ul><li><strong>Training Token Rate:</strong> You pay a separate rate for training tokens. After training, your inference costs revert to the base usage for your custom model.</li><li><strong>Batch API Discounts:</strong> If you can bundle multiple requests into one call, you can significantly lower your per-token costs.</li><li><strong>Cached Tokens:</strong> Repeated segments of text in your prompts are billed at a lower rate—helpful if you have standard instructions or format repeated for each request.</li></ul><h4>B. Why Fine-Tune o1-mini?</h4><ol><li><strong>Domain Customization</strong><ul><li>If you’re using o1-mini for a specific field (like finance, law, or specialized technical jargon), training on your corpus can elevate its accuracy.</li></ul></li><li><strong>Optimized Code Generation</strong><ul><li>Train on your internal codebase or style guide so that the model consistently follows your coding conventions and patterns.</li></ul></li><li><strong>Reduced Prompt Size</strong><ul><li>By teaching the model your domain context upfront, you can shorten prompts during inference. This can also save on token costs in the long run.</li></ul></li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>4. Best Practices to Control Costs and Boost Performance</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<ol><li><strong>Monitor Token Usage Religiously</strong><ul><li>Both input and output tokens factor into your bill. Tools like built-in token counters or logging middleware can keep you informed.</li></ul></li><li><strong>Leverage Batch API and Cached Tokens</strong><ul><li>If your application sends repetitive prompts, group them. This allows you to get that sweet “Batch API” discount and the cached token rate.</li></ul></li><li><strong>Shorten Output When Possible</strong><ul><li>If you only need a concise answer, instruct the model to be brief. Every extra token can drive up expenses, especially at $12.00 per million for output.</li></ul></li><li><strong>Experiment with Model Variants</strong><ul><li>If o1-mini is too advanced or you need additional capabilities (e.g., bigger context, even faster speed), compare it to other GPT-4o or GPT-3.5 family models.</li></ul></li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>5. Integrating o1-mini into Your Workflow</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>A. Code-First Approach</h4><p>Whether you’re using Python, Node.js, or another language, the integration process typically looks like this:</p><pre><code>import { Configuration, OpenAIApi } from 'openai';\n\nconst configuration = new Configuration({\n  apiKey: process.env.OPENAI_API_KEY,\n});\nconst openai = new OpenAIApi(configuration);\n\nasync function getO1MiniResponse(prompt) {\n  const response = await openai.createChatCompletion({\n    model: 'o1-mini',\n    messages: [{ role: 'user', content: prompt }],\n  });\n  return response.data.choices[0].message.content;\n}</code></pre><p>Use environment variables to manage your API key securely and experiment with <a href=\"#\" target=\"_blank\" rel=\"noopener noreferrer\">structured outputs</a> where needed.</p><h4>B. Building Real-Time Applications</h4><ul><li><strong>Chatbot:</strong> Combine with WebSockets or server-sent events for immediate feedback during user conversations.</li><li><strong>Math Solver or Coding Assistant:</strong> Pair with a front-end library (React, Vue, Angular) and let o1-mini handle requests asynchronously in the background.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>6. Conclusion</h3>"
+        },
+        {
+          "type": "inner",
+          "data": "<p>With <strong>o1-mini</strong>, you don’t have to choose between <strong>fast performance</strong> and <strong>solid reasoning</strong>—you get both, optimized for coding and math tasks. Add in straightforward pricing, partial discounts via cached prompts, and seamless fine-tuning across the OpenAI ecosystem, and you’ve got a compelling option for many AI-driven applications.</p><p>Whether you’re a startup needing quick math solutions, a dev team automating code generation, or simply an innovator looking for a small but mighty AI to integrate into your product, o1-mini stands ready. And if you need a more specialized solution, fine-tuning offers a pathway to mold these models into a custom fit for your unique needs.</p><h4>Keep in Mind</h4><p>All pricing, features, and usage policies can change over time. For the most up-to-date information, always check OpenAI’s official documentation or announcements. And don’t forget to keep an eye on your token usage—<strong>cost optimization</strong> is key when experimenting with AI at scale.</p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "mobile",
+          "link": "/mobile/"
+        },
+        {
+          "data": "app",
+          "link": ""
+        },
+        {
+          "data": "web",
+          "link": "/web/"
+        },
+        {
+          "data": "programming",
+          "link": ""
+        },
+        {
+          "data": "python",
+          "link": ""
+        },
+        {
+          "data": "ux/ui",
+          "link": ""
+        }
+      ],
+      "title_seo": "Best practices in Python development | Devinity LLC"
+    }
+  ]
+}
