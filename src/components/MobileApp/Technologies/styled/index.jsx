@@ -45,6 +45,10 @@ export const TechnologiesItems = styled.div`
     padding: 60px 19px 60px 31px;
     text-align: center;
 
+    @media (max-width: 1199px) {
+      padding: 30px 19px 30px 31px;
+    }
+
     img {
       width: 60px;
       height: 60px;

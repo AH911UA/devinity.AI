@@ -1,7 +1,10 @@
 import React from "react";
 import HeadingText from "../../UI/HeadingText";
 import { useDispatch } from "react-redux";
-import { updateShowCalculator, updateShowFeedback } from "../../../state/actions";
+import {
+  updateShowCalculator,
+  updateShowFeedback,
+} from "../../../state/actions";
 import { TopContainer } from "./styled";
 import H3 from "../../UI/H3";
 import Timer from "../../Timer";
@@ -30,7 +33,7 @@ const Top = ({ title, description, technologies }) => {
   return (
     <TopContainer>
       <div>
-      <TimerHorisontal />
+        <TimerHorisontal />
         <div>
           <div className={"information"}>
             <HeadingText padding={"0px"}>
@@ -52,19 +55,14 @@ const Top = ({ title, description, technologies }) => {
               </ul>
             </div>
 
-            <div
-              style={{
-                display: "flex",
-                flexDirection: "row",
-                alignItems: "center",
-                gap: 25,
-              }}
-            >
-              <div onClick={() => dispatch(updateShowFeedback(true))}>
-                <Button color={colors.black} background={colors.green}>
-                  Contact Now
-                </Button>
-              </div>
+            <div className="information-btns">
+              <ButtonEvent
+                color={colors.black}
+                background={colors.green}
+                onClick={() => dispatch(updateShowFeedback(true))}
+              >
+                Contact Now
+              </ButtonEvent>
 
               <ButtonEvent
                 color={colors.white}
