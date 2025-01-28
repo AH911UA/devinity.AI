@@ -27,6 +27,7 @@ const Top = () => {
             icon={linkIcon}
             text="MYND"
             tag="#mobile"
+            link="https://www.myndai.app/"
           ></TitleWithIconDesc>
           <h1>
             Featured

@@ -49,10 +49,16 @@ export const TopContainer = styled.div`
       h1 {
         padding: 22px 0px 20px 16px;
         z-index: 2;
+
+        @media (max-width: 678px) {
+          font-size: 25px;
+          line-height: 30px;
+          padding: 0px 0px 10px 16px;
+        }
       }
 
       .information {
-        padding: 100px 0 23px 55px;
+        padding: 100px 0 22px 55px;
 
         .options {
           display: flex;
@@ -80,6 +86,10 @@ export const TopContainer = styled.div`
                 line-height: 30px;
               }
             }
+          }
+
+          @media (max-width: 678px) {
+            margin: 0 0 12px;
           }
         }
 
@@ -114,12 +124,20 @@ export const TopContainer = styled.div`
         @media (max-width: 999px) {
           padding: 100px 10px 0px;
         }
+
+        @media (max-width: 678px) {
+          padding: 50px 10px 0px;
+        }
       }
 
       .second-container {
         width: 100%;
         @media (max-width: 1290px) {
           height: 400px;
+        }
+
+        @media (max-width: 678px) {
+          max-height: 200px;
         }
       }
 

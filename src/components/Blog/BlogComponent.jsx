@@ -2,10 +2,10 @@ import React from "react";
 import { BlogStyledComponent } from "./styled/BlogStyledComponent";
 import { GalaryCards } from "./GalaryCards/GalaryCards";
 import card1 from '../../images/blog/card-1.png'
-import card2 from '../../images/blog/items/blog-item-2-4.png'
+import card5 from '../../images/blog/items/blog-item-2-4.png'
 import card3 from '../../images/blog/card-3.png'
 import card4 from '../../images/blog/items/blog-item-4-1.png'
-import card5 from '../../images/blog/items/blog-item-5-1.png'
+import card2 from '../../images/blog/items/blog-item-5-1.png'
 import card6 from '../../images/blog/items/blog-item-6-2.png'
 import card7 from '../../images/blog/items/blog-item-7-1.png'
 

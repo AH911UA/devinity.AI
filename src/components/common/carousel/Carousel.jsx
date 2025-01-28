@@ -20,7 +20,7 @@ const CaurouselComponent = ({ slides = [] }) => {
       setCurrentSlide((prevSlide) =>
         prevSlide + 1 < slides.length ? prevSlide + 1 : 0
       );
-    }, 500000);
+    }, 5000);
 
     return () => clearTimeout(timerId);
   }, [currentSlide]);

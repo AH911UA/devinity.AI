@@ -5,6 +5,7 @@ const colors = {
   purple: "#AE59F3",
   purple600: "#331345",
   purple700: "#1A0E21",
+  purpleTransperent500: "#4d3580cc",
   silver: "#E6E6E6",
   silver100: "#FBFBFB",
   silver600: "rgba(26, 26, 26, 0.5)",

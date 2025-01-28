@@ -2,9 +2,9 @@ import styled from "styled-components";
 import fonts from "../../../fonts";
 
 const TimerHorisontalContainer = styled.div`
-  position: absolute;
+  position: fixed;
   right: 0;
-  top: 8px;
+  top: ${({top}) => top || '108px' };
   z-index: 1;
 
   max-width: 420px;
@@ -19,6 +19,10 @@ const TimerHorisontalContainer = styled.div`
   border-radius: 10px !important;
 
   backdrop-filter: blur(14px);
+
+  @media (max-width: 999px) {
+    top: ${({top}) => top || '58px' };
+  }
 
   p {
     color: #ffffff;

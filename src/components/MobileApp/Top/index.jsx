@@ -11,7 +11,7 @@ import Timer from "../../Timer";
 import imagePlanetCut from "../../../images/planet-cut.png";
 import imagePlanetFull from "../../../images/planet-full.png";
 import imageConnector from "../../../images/svg/connector.svg";
-import Button, { ButtonEvent } from "../../UI/Button";
+import { ButtonEvent } from "../../UI/Button";
 import colors from "../../colors";
 import TimerHorisontal from "../../UI/TimerHorisontal";
 
@@ -33,7 +33,6 @@ const Top = ({ title, description, technologies }) => {
   return (
     <TopContainer>
       <div>
-        <TimerHorisontal />
         <div>
           <div className={"information"}>
             <HeadingText padding={"0px"}>

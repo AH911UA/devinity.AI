@@ -23,6 +23,7 @@ import iconMobile from "../images/svg/web-languages/mobile.svg";
 import imageFestoWeb from "../images/portfolio/minimal/portfolio-festoweb.jpg";
 import imageBoxing from "../images/portfolio/minimal/portfolio-boxing.jpg";
 import imagePage from "../images/technologies/technologies_2.png";
+import TimerHorisontal from "../components/UI/TimerHorisontal";
 
 const MobilePage = ({ id }) => {
   const { article: articleData } = useHomeData();
@@ -55,7 +56,7 @@ const MobilePage = ({ id }) => {
             "Jest",
           ]}
         />
-
+        <TimerHorisontal />
         <AboutTechnology
           subTitle="Hire the Best"
           subTitleBold="Talent in the Industry"

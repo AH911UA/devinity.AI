@@ -56,3 +56,6 @@ Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 ### Site allowed
 ```http://localhost:8000/```
+
+### BUILD
+```yarn run build```

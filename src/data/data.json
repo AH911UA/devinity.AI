@@ -136,6 +136,72 @@
   "portfolio": [
     {
       "id": 1,
+      "type": "blockchain",
+      "link": "https://dedium.com/",
+      "title": "Dedium GPU Platform Project",
+      "title_seo": "Dedium: Decentralized GPU Computing on Cardano Blockchain",
+      "description_short": "Dedium: Revolutionizing GPU Computing with Cardano Blockchain. Secure, fast, and scalable solutions for developers, researchers, and AI enthusiasts.",
+      "description": "<div><h2>Dedium: Decentralized GPU Computing Power with Cardano</h2>\n\n  <p>Dedium is a decentralized platform that empowers users to purchase GPU computing power using Cardano tokens. Designed for developers, researchers, and AI enthusiasts, it offers scalable GPU resources backed by the security and speed of the Cardano blockchain.</p>\n\n  <h2>Core Features of Dedium</h2>\n\n  <p>With its innovative use of blockchain and smart contracts, Dedium provides a seamless and efficient platform for GPU computing.</p>\n\n  <ul>\n    <li>Smart Contracts: Ensures secure and automated transactions, eliminating the need for intermediaries.</li>\n    <li>Wallet Connect: Enables users to process payments effortlessly through their Cardano wallets.</li>\n    <li>Scalability: Offers reliable GPU resources for demanding computational needs, including AI and machine learning tasks.</li>\n  </ul>\n\n  <h2>Why Choose Dedium?</h2>\n\n  <p>Dedium combines advanced technology with user-centric design to deliver unmatched efficiency and reliability.</p>\n\n  <ul>\n    <li>Speed and Security: Transactions are processed quickly and securely on the Cardano blockchain.</li>\n    <li>Cost-Effective: Utilizes Cardano's low transaction fees, ensuring affordability for users.</li>\n    <li>Reliability: Guarantees high availability of GPU resources for uninterrupted operations.</li>\n  </ul>\n\n  <h2>Empowering Developers, Researchers, and AI Enthusiasts</h2>\n\n  <p>Dedium bridges the gap between cutting-edge GPU computing and blockchain technology, enabling users to achieve their goals without geographical or institutional barriers. Embrace the future of decentralized GPU computing with Dedium.</p></div>",
+      "status": "The project is live",
+      "country": {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      "time": "3 weeks",
+      "members": "3 team members",
+      "picture": "portfolio/sample-11.png",
+      "images": [
+        {
+          "id": 1,
+          "url": "portfolio/sample-11.png",
+          "alt": "Dedium Platform Overview"
+        }
+      ],
+      "libraries": [
+        {
+          "id": 1,
+          "url": "libraries/logo-react-native.png",
+          "alt": ""
+        },
+        {
+          "id": 2,
+          "url": "libraries/logo-styled-components.png",
+          "alt": ""
+        },
+        {
+          "id": 3,
+          "url": "libraries/docker.png",
+          "alt": ""
+        },
+        {
+          "id": 4,
+          "url": "libraries/social media.png",
+          "alt": ""
+        },
+        {
+          "id": 5,
+          "url": "libraries/mongo.png",
+          "alt": ""
+        },
+        {
+          "id": 6,
+          "url": "libraries/aws.png",
+          "alt": ""
+        },
+        {
+          "id": 7,
+          "url": "libraries/apollo.png",
+          "alt": ""
+        },
+        {
+          "id": 8,
+          "url": "libraries/graph.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
       "type": "mobile",
       "title": "Festo App",
       "title_seo": "Festo: Innovative Social-Event Platform by Devinity LLC",
@@ -201,7 +267,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "type": "web",
       "title": "Festo Web",
       "title_seo": "Festo this is Innovative Event Platform by Devinity LLC",
@@ -267,7 +333,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "type": "web",
       "title": "Air Alliance US",
       "title_seo": "Air Alliance US Cargo-centric, React-powered by Devinity LLC",
@@ -333,7 +399,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "type": "web",
       "title": "Liubomyrboxingfit.com",
       "title_seo": "Liubomyr's sleek boxing site: Explore training packages.",
@@ -399,7 +465,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "mobile",
       "title": "MapsSDK project",
       "title_seo": "Maps SDK: integration digital maps in app with Divinity LLC",
@@ -464,7 +530,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "type": "blockchain",
       "title": "Crypto Wallet App Project",
       "title_seo": "Crypto Wallet Apps: Digital Finance in app with Devinity LLC",
@@ -529,7 +595,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "type": "mobile",
       "title": "React Native Banking and Budgeting Mobile App Project",
       "title_seo": "Crypto Wallets: Empowering Finance React Native by Devinity",
@@ -594,7 +660,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "type": "mobile",
       "title": "MYND",
       "title_seo": "MYND is an innovative mental health app offering personalized support through AI, developed by Devinity.AI",
@@ -673,7 +739,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "type": "web",
       "title": "TekBook",
       "title_seo": "TekBook is an AI-powered social media platform connecting IT professionals and making headhunting accessible to everyone.",
@@ -738,7 +804,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "type": "mobile",
       "title": "Slide",
       "title_seo": "Slide App is a concept app that revolutionizes the way users initiate direct messaging, making it incredibly easy and intuitive to “slide” into each other’s DMs.",
@@ -1794,7 +1860,7 @@
     },
     {
       "id": 2,
-      "imgTop": "blog/items/blog-item-2-4.png",
+      "imgTop": "blog/items/blog-item-5-1.png",
       "title": "Make Apps Faster with AI—and Save Money",
       "subTitle": "#AI",
       "content": [
@@ -2168,7 +2234,7 @@
     },
     {
       "id": 5,
-      "imgTop": "blog/items/blog-item-5-1.png",
+      "imgTop": "blog/items/blog-item-2-4.png",
       "title": "Quickly Integrating AdminJS Panels into Progressive Web Apps",
       "subTitle": "#AdminJS #PWA",
       "content": [

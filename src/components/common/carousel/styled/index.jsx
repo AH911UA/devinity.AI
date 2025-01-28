@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import fonts from "../../../fonts";
+import colors from "../../../colors";
 
 export const CaurouselContainer = styled.div`
   position: relative;
@@ -21,12 +22,18 @@ export const CaurouselContainer = styled.div`
       top: 0;
       left: 0;
 
-      width: 110%;
-      height: 110%;
+      width: 100%;
+      height: 100%;
 
       object-fit: cover;
       object-position: center center;
       z-index: -1;
+
+      @media (max-width: 999px) {
+        width: 100%;
+        /* height: auto; */
+        object-position: center center;
+      }
     }
 
     .desc {
@@ -38,7 +45,7 @@ export const CaurouselContainer = styled.div`
 
       padding: 20px 30px;
 
-      background-color: #5e3f96cc;
+      background-color: ${colors.purpleTransperent500};
       box-sizing: border-box;
       border-radius: 0;
 
@@ -116,9 +123,18 @@ export const CaurouselContainer = styled.div`
       left: 50%;
       transform: translateX(-50%);
     }
+
+    @media (max-width: 678px) {
+      bottom: -40px;
+    }
   }
 
   @media (max-width: 1290px) {
     magin-bottom: 100px;
+  }
+
+  @media (max-width: 678px) {
+    magin-bottom: 50px;
+    max-height: 100%;
   }
 `;
