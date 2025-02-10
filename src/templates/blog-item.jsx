@@ -37,24 +37,6 @@ const BlogItem = ({ pageContext }) => {
             </ContainerPadding>
           </GeneralContainer>
         </StarsBackground>
-        {/* <Glowing
-          z-index="100"
-          width="1000px"
-          height="1000px"
-          top="30%"
-          left="-00px"
-          style={{ transform: "translate(-50%, -50%)" }}
-          key={"Glowing-blog-item-1"}
-        />
-        <Glowing
-          width="500px"
-          height="500px"
-          blur="blur(50px)"
-          top="70%"
-          right="0vw"
-          style={{ transform: "translate(-50%, -50%)" }}
-          key={"Glowing-blog-item-2"}
-        /> */}
       </GlowingContainer>
     </Body>
   );

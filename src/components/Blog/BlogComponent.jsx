@@ -8,8 +8,17 @@ import card4 from '../../images/blog/items/blog-item-4-1.png'
 import card2 from '../../images/blog/items/blog-item-5-1.png'
 import card6 from '../../images/blog/items/blog-item-6-2.png'
 import card7 from '../../images/blog/items/blog-item-7-1.png'
+import card8 from '../../images/blog/items/blog-item-8-1.jpeg'
 
 export const cardsData = [
+  {
+    id: 8,
+    img: card8,
+    tag: "#DeepSeek #OpenAI #AWS #Node.js #AI Integration",
+    title: "DeepSeek Integration with Node.js",
+    desc: "Learn how to integrate DeepSeek AI with Node.js and deploy scalable solutions using AWS.",
+    link: "/blog/8",
+  },
   {
     id: 1,
     img: card1,

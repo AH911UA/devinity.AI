@@ -10,6 +10,8 @@ import { PortfolioContainerItem } from "./styled/PortfolioContainerItem";
 import useIsMobile from "../../../hooks/useIsMobile";
 
 export const PortfolioItem = ({ item }) => {
+  console.log("====>", item.images.length);
+
   const isMobile = useIsMobile(1080);
   const { ref, inView } = useInView({
     triggerOnce: true,
@@ -66,6 +68,17 @@ export const PortfolioItem = ({ item }) => {
               className={""}
               styleImg={{}}
             />
+            <div style={{marginTop: '20px'}}>
+              {item.picture2 && (
+                <Image
+                  alt={item?.title_seo}
+                  filename={item.picture2}
+                  style={{}}
+                  className={""}
+                  styleImg={{}}
+                />
+              )}
+            </div>
           </div>
         </div>
         <TechnologyImgs width="128px" height="80px" isMobile={isMobile} />

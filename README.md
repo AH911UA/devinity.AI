@@ -59,3 +59,6 @@ Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 ### BUILD
 ```yarn run build```
+
+### DEPLOY
+```scp -i ~/.ssh/id_rsa -r public/* root@64.225.10.36:/var/www/devinity.ai/public_html/public```

@@ -50,6 +50,7 @@ export const useHomeData = () => {
               code
             }
             picture
+            picture2
             images {
               id
               url

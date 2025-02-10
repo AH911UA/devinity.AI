@@ -141,7 +141,7 @@
       "title": "Dedium GPU Platform Project",
       "title_seo": "Dedium: Decentralized GPU Computing on Cardano Blockchain",
       "description_short": "Dedium: Revolutionizing GPU Computing with Cardano Blockchain. Secure, fast, and scalable solutions for developers, researchers, and AI enthusiasts.",
-      "description": "<div><h2>Dedium: Decentralized GPU Computing Power with Cardano</h2>\n\n  <p>Dedium is a decentralized platform that empowers users to purchase GPU computing power using Cardano tokens. Designed for developers, researchers, and AI enthusiasts, it offers scalable GPU resources backed by the security and speed of the Cardano blockchain.</p>\n\n  <h2>Core Features of Dedium</h2>\n\n  <p>With its innovative use of blockchain and smart contracts, Dedium provides a seamless and efficient platform for GPU computing.</p>\n\n  <ul>\n    <li>Smart Contracts: Ensures secure and automated transactions, eliminating the need for intermediaries.</li>\n    <li>Wallet Connect: Enables users to process payments effortlessly through their Cardano wallets.</li>\n    <li>Scalability: Offers reliable GPU resources for demanding computational needs, including AI and machine learning tasks.</li>\n  </ul>\n\n  <h2>Why Choose Dedium?</h2>\n\n  <p>Dedium combines advanced technology with user-centric design to deliver unmatched efficiency and reliability.</p>\n\n  <ul>\n    <li>Speed and Security: Transactions are processed quickly and securely on the Cardano blockchain.</li>\n    <li>Cost-Effective: Utilizes Cardano's low transaction fees, ensuring affordability for users.</li>\n    <li>Reliability: Guarantees high availability of GPU resources for uninterrupted operations.</li>\n  </ul>\n\n  <h2>Empowering Developers, Researchers, and AI Enthusiasts</h2>\n\n  <p>Dedium bridges the gap between cutting-edge GPU computing and blockchain technology, enabling users to achieve their goals without geographical or institutional barriers. Embrace the future of decentralized GPU computing with Dedium.</p></div>",
+      "description": "<div><h2>Dedium: Decentralized GPU Computing with Cardano</h2>\n\n  <p>Dedium is a decentralized platform for purchasing GPU power using Cardano tokens, designed for developers, researchers, and AI enthusiasts.</p>\n\n  <h2>Key Features</h2>\n\n  <ul>\n    <li><b>Smart Contracts:</b> Secure, automated transactions without intermediaries.</li>\n    <li><b>Wallet Connect:</b> Easy payments via Cardano wallets.</li>\n    <li><b>Scalability:</b> Reliable GPU power for AI and machine learning.</li>\n  </ul>\n\n  <h2>Why Dedium?</h2>\n\n  <ul>\n    <li><b>Speed & Security:</b> Fast transactions on Cardano.</li>\n    <li><b>Cost-Effective:</b> Low transaction fees.</li>\n    <li><b>Reliability:</b> High availability of GPU resources.</li>\n  </ul>\n\n  <p>Dedium merges GPU computing with blockchain, offering seamless access to decentralized computing power.</p></div>",
       "status": "The project is live",
       "country": {
         "name": "United Arab Emirates",
@@ -150,10 +150,16 @@
       "time": "3 weeks",
       "members": "3 team members",
       "picture": "portfolio/sample-11.png",
+      "picture2": "portfolio/sample-12.png",
       "images": [
         {
           "id": 1,
           "url": "portfolio/sample-11.png",
+          "alt": "Dedium Platform Overview"
+        },
+        {
+          "id": 2,
+          "url": "portfolio/sample-12.png",
           "alt": "Dedium Platform Overview"
         }
       ],
@@ -1755,6 +1761,73 @@
     }
   ],
   "blogItem": [
+    {
+      "id": 8,
+      "imgTop": "blog/items/blog-item-8-1.jpeg",
+      "title": "DeepSeek Integration with Node.js: A Practical Guide for Scalable AI Solutions",
+      "subTitle": "#DeepSeek #OpenAI #AWS #Node.js #AI Integration",
+      "content": [
+        {
+          "type": "p",
+          "data": "DeepSeek offers a straightforward way to integrate advanced AI capabilities into your applications by providing full compatibility with the OpenAI REST API. This article outlines the advantages of DeepSeek, details the technical steps for integrating it with Node.js, and explains various deployment strategies—including using AWS services—to build scalable, flexible AI solutions."
+        },
+        {
+          "type": "inner",
+          "data": "<h3>1. Advantages of DeepSeek</h3><ul><li><strong>Rapid Integration:</strong> DeepSeek’s API mirrors OpenAI’s, allowing quick adoption with familiar client libraries like the OpenAI Node.js library.</li><li><strong>Flexibility:</strong> Easily switch between AI providers by updating the base URL and API key, preventing vendor lock-in.</li><li><strong>Customizability:</strong> Modify payloads and references to optimize the integration to project-specific needs.</li></ul>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>2. Technical Integration with Node.js</h3><p>DeepSeek's compatibility with the OpenAI API makes integration seamless. Below is a sample setup:</p><pre><code>const { Configuration, OpenAIApi } = require('openai');<br />const configuration = new Configuration({<br />&nbsp;&nbsp;apiKey: process.env.DEEPSEEK_API_KEY,<br />&nbsp;&nbsp;basePath: 'https://api.deepseek.com/v1'<br />});<br /><br />const deepSeekApi = new OpenAIApi(configuration);<br /><br />(async () => {<br />&nbsp;&nbsp;try {<br />&nbsp;&nbsp;&nbsp;&nbsp;const response = await deepSeekApi.createCompletion({<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;model: 'deepseek-r1',<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prompt: 'Hello, DeepSeek! How can I assist you today?',<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max_tokens: 50,<br />&nbsp;&nbsp;&nbsp;&nbsp;});<br />&nbsp;&nbsp;&nbsp;&nbsp;console.log('DeepSeek Response:', response.data);<br />&nbsp;&nbsp;} catch (error) {<br />&nbsp;&nbsp;&nbsp;&nbsp;console.error('Error communicating with DeepSeek API:', error);<br />&nbsp;&nbsp;}<br />})();</code></pre>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>3. Deployment Considerations</h3><p>Deploying a Node.js application that integrates DeepSeek requires best practices.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Containerization</h4><p>Containerizing your application ensures consistency across different environments. Below is a sample Dockerfile:</p><pre><code>FROM node:16-alpine \n\n WORKDIR /app COPY package*.json ./ RUN \n\n npm install \n\n COPY . . EXPOSE 3000 \n\n CMD [\"node\", \"server.js\"]</code></pre>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>Environment Variables</h4><p>Secure sensitive data like DEEPSEEK_API_KEY using environment variables.</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>4. Deploying on AWS</h3><p>AWS provides multiple deployment options:</p>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>AWS Elastic Beanstalk</h4><ol><li>Containerize your application.</li><li>Configure an Elastic Beanstalk environment.</li><li>Set environment variables securely through the AWS console.</li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h4>AWS ECS with Fargate</h4><ol><li>Define a task for the container.</li><li>Deploy the service using ECS and Fargate.</li><li>Use AWS Secrets Manager for secure API key storage.</li></ol>"
+        },
+        {
+          "type": "inner",
+          "data": "<h3>5. Conclusion</h3><p>DeepSeek simplifies AI integration into Node.js applications, offering rapid deployment, flexibility, and scalability. By leveraging containerization and AWS services, businesses can efficiently deploy AI-powered solutions.</p>"
+        }
+      ],
+      "tags": [
+        {
+          "data": "ai",
+          "link": "/ai/"
+        },
+        {
+          "data": "nodejs",
+          "link": "/nodejs/"
+        },
+        {
+          "data": "aws",
+          "link": "/aws/"
+        },
+        {
+          "data": "openai",
+          "link": "/openai/"
+        }
+      ],
+      "title_seo": "DeepSeek AI Integration with Node.js | Devinity LLC"
+    },
     {
       "id": 1,
       "imgTop": "blog/items/blog-1-1.png",
